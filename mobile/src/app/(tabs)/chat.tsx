@@ -102,3 +102,4 @@ const styles = StyleSheet.create({
   input: { flex: 1, backgroundColor: "#0B1020", color: "#F5F7FF", borderRadius: 10, paddingHorizontal: 12, paddingVertical: 8, fontSize: 14 },
   sendBtn: { backgroundColor: "#4F8CFF", padding: 10, borderRadius: 10, marginLeft: 8, justifyContent: "center", alignItems: "center" }
 });
+

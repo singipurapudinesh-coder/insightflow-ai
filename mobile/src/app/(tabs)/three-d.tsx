@@ -50,3 +50,4 @@ const styles = StyleSheet.create({
   center: { flex: 1, backgroundColor: "#0B1020", justifyContent: "center", alignItems: "center" },
   loadText: { color: "#4F8CFF", marginTop: 12, fontSize: 13 }
 });
+
