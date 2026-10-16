@@ -1,51 +1,110 @@
-# ⚡ InsightFlow AI
+# ⚡ InsightFlow AI — Business Intelligence Copilot
 
-> **Autonomous Business Intelligence Copilot that turns CSV/Excel data into dashboards, natural-language insights, time-series forecasts, and 3D spatial visualizations.**
-
----
-
-## 🏛️ Monorepo Architecture
-
-- **`mobile/`** — Cross-platform Expo React Native mobile application and Android APK (`buildType: "apk"` via EAS Build), with file-based Expo Router navigation, Zustand auth store, and Three.js WebView.
-- **`server/`** — Production Node.js, Express, TypeScript backend powered by Prisma ORM, PostgreSQL, Helmet security, Zod validation, and JWT session handling.
-- **`ml-service/`** — Python FastAPI microservice providing time-series sales forecasting (Prophet / Fourier harmonics) and statistical anomaly detection.
-- **`docs/`** — Architecture blueprints, viva defense guides, and milestone roadmaps.
+> **An enterprise-grade, AI-powered Business Intelligence web platform that transforms raw spreadsheets (CSV/Excel) into dynamic KPI dashboards, grounded natural language insights, and machine learning forecasts.**
 
 ---
 
-## 🚀 Quickstart
+## 🌟 Key Features
 
-### 1. Start the Node.js API
+- **📊 Dynamic Analytics Engine**: Real-time KPI aggregation (Revenue, Profit, Margin, Order Volume, AOV) computed via Pandas & NumPy — with zero hardcoded values.
+- **🤖 Grounded AI Copilot**: Ask questions in plain English (*"Which region has the highest profit?"*) and receive grounded analytical answers with chart recommendations.
+- **📈 Interactive Visualizations**: Historical revenue/profit trend area charts, regional territory comparisons, and category performance breakdown powered by Recharts.
+- **🔍 Data Quality Profiling**: Automatic schema inference, missing value audits, column types, and data hygiene scoring.
+- **🔮 Predictive Analytics**: Baseline machine learning trend forecasting and growth projections powered by Scikit-learn.
+- **☁️ Cloud-Ready Architecture**: Designed for decoupled deployment with Next.js on **Vercel** and FastAPI on **Render**.
+
+---
+
+## 🏛️ Project Structure
+
+```
+InsightFlow-AI/
+├── frontend/                     # Next.js 16 + React 19 + TypeScript + Tailwind CSS
+│   ├── app/
+│   │   ├── page.tsx              # Modern SaaS Landing Page
+│   │   ├── dashboard/page.tsx    # Executive BI Dashboard with live metrics
+│   │   ├── analyze/page.tsx      # Data profiling & dataset explorer
+│   │   ├── copilot/page.tsx      # Grounded AI Copilot Chat Interface
+│   │   ├── reports/page.tsx      # Executive BI performance reports
+│   │   ├── settings/page.tsx     # System & LLM configurations
+│   │   ├── layout.tsx            # Global layout with Navbar & Metadata
+│   │   └── globals.css
+│   ├── components/               # Navbar, Sidebar, KPICards, DashboardCharts
+│   ├── lib/
+│   │   ├── api.ts                # Strongly typed REST client for FastAPI
+│   │   └── utils.ts              # Currency, percent, and formatting utilities
+│   ├── package.json
+│   └── .env.example
+│
+├── backend/                      # Python FastAPI + Pandas + Scikit-learn
+│   ├── app/
+│   │   ├── main.py               # FastAPI entrypoint, CORS & /api/health
+│   │   ├── core/
+│   │   │   ├── config.py         # Pydantic Settings configuration
+│   │   │   └── security.py       # Upload validation and payload safeguards
+│   │   ├── api/routes/
+│   │   │   ├── analytics.py      # /api/analytics/dashboard & /api/analytics/profile
+│   │   │   ├── datasets.py       # /api/datasets/current & upload
+│   │   │   ├── copilot.py        # /api/copilot/query (grounded NL questions)
+│   │   │   ├── forecasts.py      # /api/forecasts/baseline (Scikit-learn trend)
+│   │   │   └── reports.py        # /api/reports/summary
+│   │   ├── services/
+│   │   │   ├── data_loader.py    # Safe CSV/XLSX loading & cleaning
+│   │   │   ├── analytics_engine.py # Real KPI computation and aggregation
+│   │   │   ├── chart_service.py  # Plotly specification generators
+│   │   │   ├── ai_service.py     # Grounded analytical reasoning
+│   │   │   └── forecast_service.py # ML trend model
+│   │   └── schemas/              # Pydantic contract models
+│   ├── tests/                    # Automated pytest test suite
+│   ├── requirements.txt
+│   └── .env.example
+│
+├── sample_data/
+│   └── sales_sample.csv          # Superstore business sales dataset (600 rows)
+├── docs/
+│   ├── architecture.md           # System design & Vercel/Render architecture
+│   └── api.md                    # Typed API contract specifications
+└── README.md
+```
+
+---
+
+## 🚀 Local Development Setup
+
+### Terminal 1: Python Backend (FastAPI)
 ```bash
-cd server
+cd backend
+py -m pip install -r requirements.txt
+py -m uvicorn app.main:app --reload --port 8000
+```
+- Interactive API Docs: `http://localhost:8000/docs`
+- Health Check: `http://localhost:8000/api/health`
+
+### Terminal 2: Next.js Frontend
+```bash
+cd frontend
 npm install
-npm run build
-npm start
+npm run dev
 ```
-Server runs at `http://localhost:5000` (`http://10.0.2.2:5000` for Android emulators).
+- Open `http://localhost:3000` in your browser.
 
-### 2. (Optional) Start Python ML Service
+---
+
+## 🧪 Testing Backend
+Run the automated pytest test suite:
 ```bash
-cd ml-service
-python -m venv .venv
-.venv\Scripts\activate
-pip install -r requirements.txt
-uvicorn main:app --reload --port 8000
+py -m pytest backend/tests -v
 ```
 
-### 3. Start the Mobile App
-```bash
-cd mobile
-npm install
-npx expo start
-```
-- Press `a` for Android Emulator.
-- Press `w` for Web Preview in your browser.
-- Scan QR code using Expo Go on a physical phone.
+---
 
-### 4. Build Installable Android APK
-```bash
-cd mobile
-npx eas-cli build --platform android --profile preview
-```
-Download the resulting `.apk` and install it directly on any Android device.
+## 🌐 Production Deployment
+
+- **Frontend (Vercel)**:
+  1. Import repository on Vercel.
+  2. Set Root Directory to `frontend`.
+  3. Configure environment variable: `NEXT_PUBLIC_API_URL=https://your-backend.onrender.com`.
+- **Backend (Render)**:
+  1. Create a Web Service with Root Directory set to `backend`.
+  2. Build Command: `pip install -r requirements.txt`.
+  3. Start Command: `uvicorn app.main:app --host 0.0.0.0 --port $PORT`.

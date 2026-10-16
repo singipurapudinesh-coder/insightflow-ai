@@ -1,0 +1,601 @@
+order_id,order_date,ship_date,customer_id,customer_name,segment,country,state,region,product_id,category,sub_category,product_name,sales,quantity,discount,profit
+IN-2025-1279,2025-01-01,2025-01-04,CUST-530,Rahul Joshi,Consumer,India,Madhya Pradesh,Central,PROD-FUR-51,Furniture,Tables,Tables Item,467.2,3,0.2,5.29
+IN-2025-1522,2025-01-01,2025-01-02,CUST-666,Rohan Mehta,Home Office,India,Rajasthan,West,PROD-FUR-83,Furniture,Furnishings,Furnishings Item,1038.89,8,0.15,137.85
+IN-2025-1073,2025-01-02,2025-01-07,CUST-281,Aarav Sharma,Consumer,India,Goa,West,PROD-OFF-89,Office Supplies,Storage,Storage Item,1551.86,8,0.0,479.98
+IN-2025-1547,2025-01-02,2025-01-03,CUST-402,Karan Malhotra,Consumer,India,Rajasthan,West,PROD-FUR-44,Furniture,Furnishings,Furnishings Item,1885.92,4,0.3,91.09
+IN-2025-1568,2025-01-03,2025-01-05,CUST-322,Siddharth Das,Home Office,India,Bihar,East,PROD-FUR-93,Furniture,Chairs,Chairs Item,2760.1,5,0.15,532.95
+IN-2025-1386,2025-01-06,2025-01-07,CUST-577,Arjun Bansal,Home Office,India,Kerala,South,PROD-FUR-18,Furniture,Chairs,Chairs Item,2083.91,6,0.0,475.53
+IN-2025-1046,2025-01-07,2025-01-10,CUST-436,Kavya Menon,Corporate,India,Assam,East,PROD-OFF-87,Office Supplies,Art,Art Item,1721.37,8,0.05,444.68
+IN-2025-1382,2025-01-08,2025-01-13,CUST-402,Karan Malhotra,Consumer,India,Madhya Pradesh,Central,PROD-FUR-98,Furniture,Tables,Tables Item,4745.26,7,0.1,1205.74
+IN-2025-1247,2025-01-09,2025-01-14,CUST-355,Priya Nair,Home Office,India,Kerala,South,PROD-TEC-62,Technology,Smartphones,Smartphones Item,9303.27,8,0.05,2768.09
+IN-2025-1245,2025-01-10,2025-01-11,CUST-436,Kavya Menon,Corporate,India,West Bengal,East,PROD-OFF-71,Office Supplies,Binders,Binders Item,254.03,7,0.0,51.78
+IN-2025-1388,2025-01-11,2025-01-13,CUST-643,Ananya Iyer,Consumer,India,Chhattisgarh,Central,PROD-OFF-76,Office Supplies,Art,Art Item,2465.78,3,0.3,120.59
+IN-2025-1180,2025-01-12,2025-01-15,CUST-281,Aarav Sharma,Home Office,India,Odisha,East,PROD-TEC-49,Technology,Printers,Printers Item,1888.51,5,0.3,71.54
+IN-2025-1296,2025-01-13,2025-01-18,CUST-530,Rahul Joshi,Corporate,India,Uttar Pradesh,Central,PROD-TEC-29,Technology,Printers,Printers Item,1044.6,2,0.0,248.05
+IN-2025-1584,2025-01-14,2025-01-18,CUST-779,Sneha Kulkarni,Home Office,India,Himachal Pradesh,North,PROD-OFF-25,Office Supplies,Paper,Paper Item,259.58,7,0.3,-25.25
+IN-2025-1252,2025-01-15,2025-01-18,CUST-577,Arjun Bansal,Consumer,India,Karnataka,South,PROD-FUR-90,Furniture,Bookcases,Bookcases Item,4072.61,7,0.15,285.75
+IN-2025-1196,2025-01-16,2025-01-18,CUST-182,Neha Reddy,Corporate,India,Karnataka,South,PROD-TEC-60,Technology,Smartphones,Smartphones Item,9032.52,6,0.1,1744.96
+IN-2025-1487,2025-01-16,2025-01-21,CUST-608,Diya Patel,Consumer,India,Uttar Pradesh,Central,PROD-OFF-80,Office Supplies,Storage,Storage Item,195.83,3,0.3,-31.0
+IN-2025-1203,2025-01-18,2025-01-23,CUST-608,Diya Patel,Consumer,India,Gujarat,West,PROD-OFF-40,Office Supplies,Binders,Binders Item,288.65,5,0.1,63.03
+IN-2025-1425,2025-01-22,2025-01-26,CUST-936,Vikram Rao,Consumer,India,Odisha,East,PROD-FUR-81,Furniture,Furnishings,Furnishings Item,2819.87,8,0.05,554.06
+IN-2025-1554,2025-01-22,2025-01-25,CUST-281,Aarav Sharma,Consumer,India,Karnataka,South,PROD-OFF-62,Office Supplies,Storage,Storage Item,780.82,6,0.15,74.71
+IN-2025-1417,2025-01-23,2025-01-25,CUST-936,Vikram Rao,Consumer,India,Haryana,North,PROD-OFF-11,Office Supplies,Appliances,Appliances Item,220.64,3,0.0,55.44
+IN-2025-1458,2025-01-27,2025-01-30,CUST-666,Rohan Mehta,Home Office,India,Himachal Pradesh,North,PROD-OFF-93,Office Supplies,Appliances,Appliances Item,630.76,7,0.15,78.09
+IN-2025-1048,2025-01-28,2025-01-29,CUST-436,Kavya Menon,Corporate,India,Gujarat,West,PROD-TEC-43,Technology,Laptops,Laptops Item,2953.43,4,0.15,467.79
+IN-2025-1166,2025-01-28,2025-02-02,CUST-322,Siddharth Das,Home Office,India,Rajasthan,West,PROD-OFF-16,Office Supplies,Binders,Binders Item,370.1,3,0.2,11.19
+IN-2025-1219,2025-01-28,2025-02-01,CUST-530,Rahul Joshi,Corporate,India,Kerala,South,PROD-OFF-62,Office Supplies,Paper,Paper Item,367.05,3,0.3,-5.54
+IN-2025-1588,2025-01-28,2025-01-30,CUST-666,Rohan Mehta,Corporate,India,Rajasthan,West,PROD-OFF-22,Office Supplies,Art,Art Item,1324.91,8,0.15,248.79
+IN-2025-1002,2025-01-31,2025-02-01,CUST-402,Karan Malhotra,Home Office,India,Tamil Nadu,South,PROD-TEC-93,Technology,Smartphones,Smartphones Item,8990.72,7,0.05,1988.92
+IN-2025-1272,2025-01-31,2025-02-04,CUST-355,Priya Nair,Consumer,India,Gujarat,West,PROD-TEC-45,Technology,Accessories,Accessories Item,2907.05,3,0.0,660.42
+IN-2025-1492,2025-01-31,2025-02-01,CUST-355,Priya Nair,Corporate,India,Maharashtra,West,PROD-FUR-46,Furniture,Tables,Tables Item,1742.29,3,0.2,281.84
+IN-2025-1359,2025-02-01,2025-02-05,CUST-666,Rohan Mehta,Home Office,India,Tamil Nadu,South,PROD-FUR-91,Furniture,Bookcases,Bookcases Item,1548.34,6,0.0,370.51
+IN-2025-1189,2025-02-02,2025-02-06,CUST-643,Ananya Iyer,Consumer,India,Madhya Pradesh,Central,PROD-TEC-86,Technology,Laptops,Laptops Item,332.85,1,0.05,53.22
+IN-2025-1205,2025-02-02,2025-02-03,CUST-489,Aditya Verma,Home Office,India,Goa,West,PROD-FUR-91,Furniture,Chairs,Chairs Item,471.26,3,0.0,117.83
+IN-2025-1541,2025-02-02,2025-02-07,CUST-666,Rohan Mehta,Consumer,India,Haryana,North,PROD-FUR-63,Furniture,Furnishings,Furnishings Item,1586.89,6,0.05,204.99
+IN-2025-1577,2025-02-03,2025-02-08,CUST-779,Sneha Kulkarni,Consumer,India,Madhya Pradesh,Central,PROD-FUR-18,Furniture,Chairs,Chairs Item,376.23,1,0.0,72.81
+IN-2025-1558,2025-02-05,2025-02-08,CUST-355,Priya Nair,Corporate,India,Odisha,East,PROD-OFF-78,Office Supplies,Binders,Binders Item,75.95,1,0.15,1.23
+IN-2025-1526,2025-02-06,2025-02-08,CUST-779,Sneha Kulkarni,Corporate,India,Punjab,North,PROD-TEC-73,Technology,Accessories,Accessories Item,8807.28,8,0.0,3017.3
+IN-2025-1094,2025-02-08,2025-02-11,CUST-608,Diya Patel,Consumer,India,Maharashtra,West,PROD-OFF-59,Office Supplies,Binders,Binders Item,696.29,7,0.2,1.34
+IN-2025-1320,2025-02-08,2025-02-12,CUST-557,Ishita Gupta,Consumer,India,West Bengal,East,PROD-OFF-93,Office Supplies,Paper,Paper Item,148.62,1,0.3,5.7
+IN-2025-1534,2025-02-08,2025-02-13,CUST-557,Ishita Gupta,Consumer,India,Kerala,South,PROD-OFF-54,Office Supplies,Storage,Storage Item,442.02,4,0.05,128.65
+IN-2025-1375,2025-02-10,2025-02-15,CUST-666,Rohan Mehta,Corporate,India,Karnataka,South,PROD-TEC-86,Technology,Printers,Printers Item,1227.71,1,0.3,-167.66
+IN-2025-1050,2025-02-11,2025-02-12,CUST-436, Kavya Menon  ,Consumer,India,Tamil Nadu,South,PROD-OFF-40,Office Supplies,Binders,Binders Item,78.45,2,0.2,-3.88
+IN-2025-1421,2025-02-13,2025-02-18,CUST-936,Vikram Rao,Corporate,India,Madhya Pradesh,Central,PROD-OFF-35,Office Supplies,Storage,Storage Item,72.03,1,0.3,0.66
+IN-2025-1264,2025-02-14,2025-02-16,CUST-182,Neha Reddy,Corporate,India,Chhattisgarh,Central,PROD-FUR-84,Furniture,Chairs,Chairs Item,465.53,3,0.3,-75.81
+IN-2025-1040,2025-02-17,2025-02-19,CUST-779,Sneha Kulkarni,Corporate,India,Maharashtra,West,PROD-OFF-34,Office Supplies,Art,Art Item,1102.06,7,0.15,155.68
+IN-2025-1088,2025-02-20,2025-02-25,CUST-530,Rahul Joshi,Consumer,India,Rajasthan,West,PROD-OFF-38,Office Supplies,Storage,Storage Item,582.48,5,0.3,-84.14
+IN-2025-1022,2025-02-21,2025-02-26,CUST-281,Aarav Sharma,Home Office,India,Gujarat,West,PROD-TEC-18,Technology,Smartphones,Smartphones Item,4054.68,4,0.15,839.67
+IN-2025-1529,2025-02-21,2025-02-24,CUST-557,Ishita Gupta,Consumer,India,Himachal Pradesh,North,PROD-OFF-23,Office Supplies,Paper,Paper Item,185.05,4,0.0,35.0
+IN-2025-1028,2025-02-22,2025-02-23,CUST-281,Aarav Sharma,Consumer,India,Rajasthan,West,PROD-FUR-91,Furniture,Tables,Tables Item,1858.18,3,0.3,-101.85
+IN-2025-1250,2025-02-25,2025-02-27,CUST-608,Diya Patel,Consumer,India,Goa,West,PROD-FUR-77,Furniture,Chairs,Chairs Item,734.89,1,0.1,51.62
+IN-2025-1527,2025-02-27,2025-03-02,CUST-608,Diya Patel,Consumer,India,Himachal Pradesh,North,PROD-OFF-68,Office Supplies,Art,Art Item,496.06,3,0.3,-46.68
+IN-2025-1120,2025-02-28,2025-03-03,CUST-322,Siddharth Das,Consumer,India,West Bengal,East,PROD-OFF-74,Office Supplies,Art,Art Item,$92.17,1,0.15,1.98
+IN-2025-1432,2025-03-01,2025-03-06,CUST-182,Neha Reddy,Consumer,India,West Bengal,East,PROD-FUR-37,Furniture,Chairs,Chairs Item,1740.88,2,0.0,356.82
+IN-2025-1101,2025-03-04,2025-03-08,CUST-322,Siddharth Das,Consumer,India,Goa,West,PROD-FUR-19,Furniture,Furnishings,Furnishings Item,3957.36,6,0.2,595.25
+IN-2025-1270,2025-03-05,2025-03-07,CUST-436,Kavya Menon,Corporate,India,Tamil Nadu,South,PROD-FUR-84,Furniture,Chairs,Chairs Item,1179.18,2,0.0,177.55
+IN-2025-1499,2025-03-05,2025-03-08,CUST-281,Aarav Sharma,Home Office,India,Madhya Pradesh,Central,PROD-OFF-24,Office Supplies,Storage,Storage Item,207.18,1,0.05,46.59
+IN-2025-1228,2025-03-06,2025-03-11,CUST-355,Priya Nair,Corporate,India,Punjab,North,PROD-TEC-24,Technology,Printers,Printers Item,4438.59,8,0.2,-239.59
+IN-2025-1330,2025-03-06,2025-03-09,CUST-182,Neha Reddy,Home Office,India,West Bengal,East,PROD-OFF-82,Office Supplies,Art,Art Item,343.28,6,0.2,19.47
+IN-2025-1428,2025-03-06,2025-03-11,CUST-402,Karan Malhotra,Home Office,India,Gujarat,West,PROD-FUR-88,Furniture,Tables,Tables Item,1775.5,7,0.3,-36.54
+IN-2025-1148,2025-03-08,2025-03-13,CUST-577,Arjun Bansal,Corporate,India,Chhattisgarh,Central,PROD-TEC-56,Technology,Smartphones,Smartphones Item,2019.95,2,0.05,301.05
+IN-2025-1552,2025-03-09,2025-03-11,CUST-608,Diya Patel,Corporate,India,Maharashtra,West,PROD-TEC-19,Technology,Accessories,Accessories Item,2320.24,5,0.0,488.61
+IN-2025-1109,2025-03-13,2025-03-15,CUST-182,Neha Reddy,Home Office,India,Delhi,North,PROD-TEC-63,Technology,Printers,Printers Item,2647.27,3,0.1,552.03
+IN-2025-1363,2025-03-13,2025-03-15,CUST-779,Sneha Kulkarni,Corporate,India,Assam,East,PROD-OFF-98,Office Supplies,Storage,Storage Item,833.54,6,0.1,53.97
+IN-2025-1523,2025-03-13,2025-03-18,CUST-489,Aditya Verma,Home Office,India,Karnataka,South,PROD-FUR-82,Furniture,Chairs,Chairs Item,2977.98,6,0.1,375.99
+IN-2025-1528,2025-03-15,2025-03-16,CUST-322,Siddharth Das,Consumer,India,Kerala,South,PROD-FUR-41,Furniture,Chairs,Chairs Item,2027.92,3,0.0,639.91
+IN-2025-1358,2025-03-16,2025-03-19,CUST-936,Vikram Rao,Home Office,India,Madhya Pradesh,Central,PROD-FUR-46,Furniture,Chairs,Chairs Item,4922.9,8,0.15,700.66
+IN-2025-1162,2025-03-17,2025-03-21,CUST-530,Rahul Joshi,Home Office,India,Chhattisgarh,Central,PROD-FUR-26,Furniture,Chairs,Chairs Item,5552.27,7,0.1,561.53
+IN-2025-1519,2025-03-17,2025-03-20,CUST-489,Aditya Verma,Corporate,India,Himachal Pradesh,North,PROD-TEC-43,Technology,Accessories,Accessories Item,963.72,2,0.15,4.67
+IN-2025-1201,2025-03-18,2025-03-19,CUST-666,Rohan Mehta,Home Office,India,Himachal Pradesh,North,PROD-TEC-29,Technology,Laptops,Laptops Item,2258.73,8,0.1,597.08
+IN-2025-1207,2025-03-18,2025-03-21,CUST-322,Siddharth Das,Consumer,India,Uttar Pradesh,Central,PROD-TEC-12,Technology,Accessories,Accessories Item,3658.63,3,0.3,-596.77
+IN-2025-1265,2025-03-18,2025-03-23,CUST-489,Aditya Verma,Home Office,India,Madhya Pradesh,Central,PROD-TEC-47,Technology,Smartphones,Smartphones Item,3526.58,6,0.15,248.33
+IN-2025-1325,2025-03-18,2025-03-19,CUST-779,Sneha Kulkarni,Corporate,India,Odisha,East,PROD-FUR-16,Furniture,Furnishings,Furnishings Item,674.57,3,0.0,121.12
+IN-2025-1145,2025-03-20,2025-03-25,CUST-489,Aditya Verma,Corporate,India,Telangana,South,PROD-OFF-41,Office Supplies,Storage,Storage Item,168.64,1,0.3,3.08
+IN-2025-1208,2025-03-20,2025-03-23,CUST-557,Ishita Gupta,Corporate,India,Tamil Nadu,South,PROD-OFF-52,Office Supplies,Art,Art Item,227.4,3,0.3,-30.8
+IN-2025-1253,2025-03-26,2025-03-31,CUST-666,Rohan Mehta,Corporate,India,Uttar Pradesh,Central,PROD-TEC-20,Technology,Accessories,Accessories Item,4054.44,4,0.05,822.51
+IN-2025-1409,2025-03-27,2025-03-28,CUST-608,Diya Patel,Home Office,India,Odisha,East,PROD-FUR-39,Furniture,Bookcases,Bookcases Item,1426.08,5,0.15,125.34
+IN-2025-1545,2025-03-27,2025-04-01,CUST-643,Ananya Iyer,Consumer,India,Himachal Pradesh,North,PROD-FUR-40,Furniture,Bookcases,Bookcases Item,1271.46,2,0.0,323.01
+IN-2025-1039,2025-03-28,2025-03-31,CUST-322,Siddharth Das,Home Office,India,Uttar Pradesh,Central,PROD-FUR-40,Furniture,Chairs,Chairs Item,2487.47,4,0.05,708.35
+IN-2025-1356,2025-03-31,2025-04-01,CUST-530,Rahul Joshi,Corporate,India,Punjab,North,PROD-OFF-83,Office Supplies,Paper,Paper Item,888.13,5,0.15,127.88
+IN-2025-1485,2025-03-31,2025-04-03,CUST-608,Diya Patel,Home Office,India,Maharashtra,West,PROD-OFF-12,Office Supplies,Storage,Storage Item,534.94,5,0.3,-98.14
+IN-2025-1566,2025-04-01,2025-04-02,CUST-489,Aditya Verma,Consumer,India,Rajasthan,West,PROD-OFF-82,Office Supplies,Appliances,Appliances Item,552.06,3,0.05,152.71
+IN-2025-1390,2025-04-03,2025-04-08,CUST-355,Priya Nair,Corporate,India,Bihar,East,PROD-TEC-68,Technology,Smartphones,Smartphones Item,1525.11,1,0.1,364.32
+IN-2025-1238,2025-04-08,2025-04-10,CUST-936,Vikram Rao,Home Office,India,Maharashtra,West,PROD-TEC-41,Technology,Smartphones,Smartphones Item,2960.38,6,0.05,460.28
+IN-2025-1354,2025-04-09,2025-04-11,CUST-281,Aarav Sharma,Home Office,India,Uttar Pradesh,Central,PROD-TEC-95,Technology,Smartphones,Smartphones Item,3483.96,4,0.3,-173.41
+IN-2025-1429,2025-04-09,2025-04-14,CUST-436,Kavya Menon,Consumer,India,Delhi,North,PROD-TEC-35,Technology,Laptops,Laptops Item,1842.33,4,0.0,633.09
+IN-2025-1516,2025-04-11,2025-04-16,CUST-355,Priya Nair,Consumer,India,Himachal Pradesh,North,PROD-OFF-42,Office Supplies,Storage,Storage Item,51.53,1,0.2,8.48
+IN-2025-1083,2025-04-13,2025-04-17,CUST-577,Arjun Bansal,Consumer,India,Telangana,South,PROD-TEC-17,Technology,Accessories,Accessories Item,3774.26,6,0.15,758.78
+IN-2025-1248,2025-04-13,2025-04-15,CUST-355,Priya Nair,Corporate,India,Himachal Pradesh,North,PROD-FUR-41,Furniture,Tables,Tables Item,679.68,2,0.05,135.45
+IN-2025-1532,2025-04-13,2025-04-18,CUST-281,Aarav Sharma,Corporate,India,Gujarat,West,PROD-TEC-10,Technology,Laptops,Laptops Item,796.77,2,0.3,-91.46
+IN-2025-1297,2025-04-14,2025-04-17,CUST-577,Arjun Bansal,Corporate,India,Chhattisgarh,Central,PROD-FUR-93,Furniture,Furnishings,Furnishings Item,4113.51,8,0.0,1298.06
+IN-2025-1322,2025-04-14,2025-04-19,CUST-489,Aditya Verma,Consumer,India,Odisha,East,PROD-OFF-25,Office Supplies,Art,Art Item,144.54,2,0.15,27.25
+IN-2025-1246,2025-04-15,2025-04-16,CUST-577,Arjun Bansal,Corporate,India,Bihar,East,PROD-TEC-27,Technology,Printers,Printers Item,3787.09,3,0.0,923.66
+IN-2025-1345,2025-04-15,2025-04-20,CUST-182,Neha Reddy,Home Office,India,Madhya Pradesh,Central,PROD-OFF-40,Office Supplies,Appliances,Appliances Item,481.29,5,0.3,-57.0
+IN-2025-1585,2025-04-15,2025-04-17,CUST-643,Ananya Iyer,Corporate,India,Haryana,North,PROD-TEC-25,Technology,Printers,Printers Item,3181.59,7,0.3,-226.45
+IN-2025-1258,2025-04-16,2025-04-21,CUST-182,Neha Reddy,Home Office,India,Punjab,North,PROD-TEC-11,Technology,Laptops,Laptops Item,4801.16,8,0.1,925.05
+IN-2025-1355,2025-04-17,2025-04-19,CUST-577,Arjun Bansal,Home Office,India,Uttar Pradesh,Central,PROD-FUR-97,Furniture,Chairs,Chairs Item,1485.77,8,0.3,-34.69
+IN-2025-1027,2025-04-20,2025-04-25,CUST-936,Vikram Rao,Home Office,India,Telangana,South,PROD-TEC-36,Technology,Accessories,Accessories Item,5324.98,5,0.2,348.08
+IN-2025-1493,2025-04-20,2025-04-23,CUST-608,Diya Patel,Corporate,India,Uttar Pradesh,Central,PROD-OFF-61,Office Supplies,Appliances,Appliances Item,498.63,4,0.2,63.11
+IN-2025-1581,2025-04-20,2025-04-22,CUST-489,Aditya Verma,Consumer,India,Assam,East,PROD-OFF-62,Office Supplies,Binders,Binders Item,275.73,6,0.0,70.82
+IN-2025-1032,2025-04-21,2025-04-25,CUST-643,Ananya Iyer,Consumer,India,Himachal Pradesh,North,PROD-FUR-49,Furniture,Bookcases,Bookcases Item,2908.53,4,0.05,903.99
+IN-2025-1161,2025-04-21,2025-04-25,CUST-182,Neha Reddy,Corporate,India,Telangana,South,PROD-FUR-15,Furniture,Bookcases,Bookcases Item,1621.57,4,0.1,251.08
+IN-2025-1587,2025-04-21,2025-04-22,CUST-779,Sneha Kulkarni,Consumer,India,Assam,East,PROD-OFF-13,Office Supplies,Binders,Binders Item,42.91,1,0.0,10.74
+IN-2025-1416,2025-04-24,2025-04-28,CUST-936,Vikram Rao,Home Office,India,Chhattisgarh,Central,PROD-OFF-34,Office Supplies,Appliances,Appliances Item,281.24,3,0.0,43.89
+IN-2025-1001,2025-04-25,2025-04-26,CUST-643,Ananya Iyer,Consumer,India,Odisha,East,PROD-OFF-96,Office Supplies,Paper,Paper Item,304.57,2,0.2,24.98
+IN-2025-1422,2025-04-26,2025-04-28,CUST-281,Aarav Sharma,Consumer,India,Rajasthan,West,PROD-FUR-60,Furniture,Chairs,Chairs Item,741.86,1,0.0,173.44
+IN-2025-1536,2025-04-26,2025-04-28,CUST-666,Rohan Mehta,Consumer,India,Goa,West,PROD-OFF-16,Office Supplies,Paper,Paper Item,799.51,5,0.05,179.31
+IN-2025-1117,2025-04-27,2025-05-02,CUST-577,Arjun Bansal,Corporate,India,Madhya Pradesh,Central,PROD-FUR-40,Furniture,Tables,Tables Item,1078.74,5,0.05,301.25
+IN-2025-1512,2025-04-29,2025-04-30,CUST-489,Aditya Verma,Corporate,India,Kerala,South,PROD-FUR-78,Furniture,Furnishings,Furnishings Item,1935.21,7,0.15,335.76
+IN-2025-1236,2025-05-01,2025-05-03,CUST-436,Kavya Menon,Home Office,India,Telangana,South,PROD-OFF-31,Office Supplies,Appliances,Appliances Item,614.52,4,0.05,89.86
+IN-2025-1468,2025-05-01,2025-05-03,CUST-557,Ishita Gupta,Corporate,India,Karnataka,South,PROD-TEC-73,Technology,Printers,Printers Item,1266.49,1,0.2,-42.02
+IN-2025-1187,2025-05-02,2025-05-04,CUST-402,Karan Malhotra,Consumer,India,Chhattisgarh,Central,PROD-OFF-10,Office Supplies,Binders,Binders Item,824.17,5,0.15,63.32
+IN-2025-1385,2025-05-02,2025-05-04,CUST-608,Diya Patel,Consumer,India,Gujarat,West,PROD-OFF-53,Office Supplies,Appliances,Appliances Item,193.99,1,0.05,45.37
+IN-2025-1590,2025-05-02,2025-05-06,CUST-436,Kavya Menon,Corporate,India,Rajasthan,West,PROD-FUR-14,Furniture,Furnishings,Furnishings Item,611.26,5,0.3,15.0
+IN-2025-1053,2025-05-04,2025-05-09,CUST-402,Karan Malhotra,Corporate,India,Haryana,North,PROD-OFF-18,Office Supplies,Storage,Storage Item,818.23,6,0.0,147.35
+IN-2025-1404,2025-05-05,2025-05-08,CUST-557,Ishita Gupta,Home Office,India,Madhya Pradesh,Central,PROD-OFF-32,Office Supplies,Art,Art Item,1103.65,5,0.1,226.84
+IN-2025-1473,2025-05-05,2025-05-08,CUST-402,Karan Malhotra,Consumer,India,Assam,East,PROD-OFF-88,Office Supplies,Binders,Binders Item,56.75,2,0.15,3.68
+IN-2025-1092,2025-05-07,2025-05-11,CUST-557,Ishita Gupta,Corporate,India,Bihar,East,PROD-OFF-23,Office Supplies,Storage,Storage Item,1401.7,8,0.0,316.91
+IN-2025-1303,2025-05-07,2025-05-08,CUST-779,Sneha Kulkarni,Home Office,India,Telangana,South,PROD-FUR-70,Furniture,Tables,Tables Item,3186.87,6,0.1,769.45
+IN-2025-1140,2025-05-08,2025-05-11,CUST-182,Neha Reddy,Corporate,India,Goa,West,PROD-FUR-33,Furniture,Bookcases,Bookcases Item,3759.5,8,0.1,272.1
+IN-2025-1576,2025-05-09,2025-05-11,CUST-489,Aditya Verma,Home Office,India,Karnataka,South,PROD-TEC-12,Technology,Laptops,Laptops Item,10234.27,7,0.0,3180.09
+IN-2025-1102,2025-05-10,2025-05-13,CUST-557,Ishita Gupta,Home Office,India,Uttar Pradesh,Central,PROD-OFF-58,Office Supplies,Storage,Storage Item,1057.25,5,0.15,123.0
+IN-2025-1037,2025-05-11,2025-05-13,CUST-322,Siddharth Das,Home Office,India,Goa,West,PROD-TEC-61,Technology,Accessories,Accessories Item,1009.72,1,0.1,216.1
+IN-2025-1340,2025-05-12,2025-05-13,CUST-402,Karan Malhotra,Corporate,India,Rajasthan,West,PROD-FUR-45,Furniture,Tables,Tables Item,2421.37,6,0.1,428.93
+IN-2025-1410,2025-05-15,2025-05-20,CUST-281,Aarav Sharma,Home Office,India,Karnataka,South,PROD-FUR-70,Furniture,Bookcases,Bookcases Item,2001.58,5,0.2,152.7
+IN-2025-1243,2025-05-16,2025-05-19,CUST-608,Diya Patel,Home Office,India,Telangana,South,PROD-FUR-20,Furniture,Bookcases,Bookcases Item,1286.65,3,0.0,348.34
+IN-2025-1251,2025-05-16,2025-05-20,CUST-355,Priya Nair,Home Office,India,Chhattisgarh,Central,PROD-OFF-70,Office Supplies,Binders,Binders Item,479.05,2,0.0,111.39
+IN-2025-1378,2025-05-16,2025-05-17,CUST-402,Karan Malhotra,Home Office,India,Punjab,North,PROD-OFF-29,Office Supplies,Appliances,Appliances Item,406.13,3,0.15,9.4
+IN-2025-1341,2025-05-17,2025-05-19,CUST-436,Kavya Menon,Home Office,India,Rajasthan,West,PROD-OFF-80,Office Supplies,Storage,Storage Item,628.88,4,0.05,115.96
+IN-2025-1230,2025-05-18,2025-05-21,CUST-936,Vikram Rao,Consumer,India,Punjab,North,PROD-TEC-98,Technology,Accessories,Accessories Item,3046.62,7,0.15,289.3
+IN-2025-1437,2025-05-19,2025-05-22,CUST-643,Ananya Iyer,Consumer,India,Haryana,North,PROD-FUR-98,Furniture,Chairs,Chairs Item,2300.26,3,0.0,787.73
+IN-2025-1217,2025-05-20,2025-05-23,CUST-779,Sneha Kulkarni,Corporate,India,Odisha,East,PROD-TEC-50,Technology,Printers,Printers Item,4717.9,8,0.2,-37.72
+IN-2025-1089,2025-05-21,2025-05-22,CUST-530,Rahul Joshi,Corporate,India,Haryana,North,PROD-TEC-26,Technology,Accessories,Accessories Item,1958.4,5,0.1,218.7
+IN-2025-1126,2025-05-21,2025-05-23,CUST-436,Kavya Menon,Consumer,India,Haryana,North,PROD-OFF-77,Office Supplies,Art,Art Item,137.67,6,0.2,21.3
+IN-2025-1133,2025-05-23,2025-05-27,CUST-577,Arjun Bansal,Consumer,India,Maharashtra,West,PROD-TEC-37,Technology,Accessories,Accessories Item,10867.11,7,0.0,2116.54
+IN-2025-1497,2025-05-23,2025-05-28,CUST-322,Siddharth Das,Consumer,India,Punjab,North,PROD-FUR-59,Furniture,Bookcases,Bookcases Item,4648.76,8,0.05,1266.75
+IN-2025-1565,2025-05-23,2025-05-28,CUST-666,Rohan Mehta,Consumer,India,Madhya Pradesh,Central,PROD-FUR-77,Furniture,Furnishings,Furnishings Item,1423.97,2,0.2,-2.17
+IN-2025-1309,2025-05-24,2025-05-25,CUST-936,Vikram Rao,Corporate,India,Rajasthan,West,PROD-FUR-14,Furniture,Furnishings,Furnishings Item,2114.16,4,0.1,245.92
+IN-2025-1366,2025-05-24,2025-05-29,CUST-182,Neha Reddy,Home Office,India,Telangana,South,PROD-TEC-12,Technology,Laptops,Laptops Item,1259.5,1,0.2,53.87
+IN-2025-1124,2025-05-25,2025-05-28,CUST-666,Rohan Mehta,Home Office,India,Assam,East,PROD-OFF-49,Office Supplies,Paper,Paper Item,846.75,6,0.05,147.94
+IN-2025-1224,2025-05-26,2025-05-29,CUST-779,Sneha Kulkarni,Consumer,India,Bihar,East,PROD-OFF-54,Office Supplies,Appliances,Appliances Item,725.3,8,0.3,-92.58
+IN-2025-1280,2025-05-26,2025-05-27,CUST-608,Diya Patel,Corporate,India,Chhattisgarh,Central,PROD-OFF-85,Office Supplies,Appliances,Appliances Item,194.57,5,0.1,48.15
+IN-2025-1559,2025-05-29,2025-06-02,CUST-281,Aarav Sharma,Home Office,India,Odisha,East,PROD-OFF-52,Office Supplies,Art,Art Item,717.68,5,0.15,17.56
+IN-2025-1041,2025-06-01,2025-06-02,CUST-643,Ananya Iyer,Consumer,India,Himachal Pradesh,North,PROD-OFF-69,Office Supplies,Art,Art Item,126.2,4,0.0,32.65
+IN-2025-1295,2025-06-01,2025-06-06,CUST-577,Arjun Bansal,Home Office,India,Bihar,East,PROD-TEC-59,Technology,Laptops,Laptops Item,6126.55,6,0.1,994.29
+IN-2025-1259,2025-06-03,2025-06-05,CUST-643,Ananya Iyer,Corporate,India,Himachal Pradesh,North,PROD-TEC-50,Technology,Printers,Printers Item,1131.02,2,0.2,106.65
+IN-2025-1467,2025-06-03,2025-06-05,CUST-530,Rahul Joshi,Home Office,India,Tamil Nadu,South,PROD-TEC-49,Technology,Printers,Printers Item,5502.8,8,0.1,762.5
+IN-2025-1080,2025-06-05,2025-06-09,CUST-402,Karan Malhotra,Home Office,India,Punjab,North,PROD-FUR-66,Furniture,Chairs,Chairs Item,1798.27,8,0.0,369.56
+IN-2025-1118,2025-06-06,2025-06-07,CUST-779,Sneha Kulkarni,Home Office,India,Kerala,South,PROD-OFF-97,Office Supplies,Appliances,Appliances Item,976.73,6,0.3,-18.46
+IN-2025-1442,2025-06-06,2025-06-07,CUST-530,Rahul Joshi,Home Office,India,Goa,West,PROD-OFF-21,Office Supplies,Art,Art Item,302.09,5,0.15,60.56
+IN-2025-1557,2025-06-07,2025-06-09,CUST-281,Aarav Sharma,Corporate,India,Karnataka,South,PROD-OFF-66,Office Supplies,Binders,Binders Item,227.7,3,0.05,44.94
+IN-2025-1095,2025-06-08,2025-06-12,CUST-557,Ishita Gupta,Corporate,India,Himachal Pradesh,North,PROD-FUR-98,Furniture,Chairs,Chairs Item,2909.7,8,0.15,33.85
+IN-2025-1349,2025-06-08,2025-06-09,CUST-557,Ishita Gupta,Consumer,India,Telangana,South,PROD-OFF-94,Office Supplies,Art,Art Item,535.59,6,0.0,103.47
+IN-2025-1288,2025-06-10,2025-06-11,CUST-643,Ananya Iyer,Consumer,India,Haryana,North,PROD-FUR-94,Furniture,Bookcases,Bookcases Item,1444.57,4,0.0,491.26
+IN-2025-1332,2025-06-10,2025-06-15,CUST-436,Kavya Menon,Consumer,India,Goa,West,PROD-TEC-51,Technology,Printers,Printers Item,3306.69,5,0.0,822.09
+IN-2025-1452,2025-06-10,2025-06-11,CUST-355,Priya Nair,Home Office,India,Bihar,East,PROD-FUR-74,Furniture,Tables,Tables Item,249.84,1,0.3,-0.54
+IN-2025-1592,2025-06-10,2025-06-15,CUST-936,Vikram Rao,Corporate,India,Himachal Pradesh,North,PROD-OFF-88,Office Supplies,Appliances,Appliances Item,790.16,5,0.1,208.7
+IN-2025-1086,2025-06-11,2025-06-12,CUST-557,Ishita Gupta,Corporate,India,Rajasthan,West,PROD-OFF-98,Office Supplies,Appliances,Appliances Item,368.23,5,0.05,38.81
+IN-2025-1174,2025-06-11,2025-06-15,CUST-322,Siddharth Das,Consumer,India,Goa,West,PROD-FUR-46,Furniture,Bookcases,Bookcases Item,888.19,2,0.3,-82.26
+IN-2025-1281,2025-06-11,2025-06-15,CUST-666,Rohan Mehta,Home Office,India,Rajasthan,West,PROD-OFF-55,Office Supplies,Art,Art Item,181.93,3,0.15,29.67
+IN-2025-1373,2025-06-11,2025-06-14,CUST-436,Kavya Menon,Consumer,India,Uttar Pradesh,Central,PROD-OFF-63,Office Supplies,Binders,Binders Item,351.17,2,0.15,26.84
+IN-2025-1456,2025-06-11,2025-06-14,CUST-666,Rohan Mehta,Corporate,India,Delhi,North,PROD-TEC-50,Technology,Laptops,Laptops Item,9640.18,7,0.15,1580.2
+IN-2025-1315,2025-06-12,2025-06-16,CUST-557,Ishita Gupta,Corporate,India,Punjab,North,PROD-OFF-61,Office Supplies,Appliances,Appliances Item,807.0,8,0.15,189.0
+IN-2025-1494,2025-06-12,2025-06-16,CUST-355,Priya Nair,Consumer,India,Maharashtra,West,PROD-OFF-65,Office Supplies,Art,Art Item,1122.2,7,0.2,-10.47
+IN-2025-1579,2025-06-14,2025-06-19,CUST-402,Karan Malhotra,Home Office,India,Madhya Pradesh,Central,PROD-TEC-84,Technology,Laptops,Laptops Item,4045.62,4,0.3,67.56
+IN-2025-1459,2025-06-17,2025-06-19,CUST-489,Aditya Verma,Consumer,India,Karnataka,South,PROD-FUR-38,Furniture,Furnishings,Furnishings Item,2685.74,4,0.05,810.73
+IN-2025-1319,2025-06-18,2025-06-22,CUST-643,Ananya Iyer,Home Office,India,Punjab,North,PROD-TEC-12,Technology,Smartphones,Smartphones Item,3553.62,3,0.0,983.22
+IN-2025-1572,2025-06-21,2025-06-26,CUST-436,Kavya Menon,Home Office,India,Bihar,East,PROD-FUR-97,Furniture,Bookcases,Bookcases Item,4040.85,6,0.0,982.39
+IN-2025-1364,2025-06-22,2025-06-23,CUST-530,Rahul Joshi,Consumer,India,Odisha,East,PROD-OFF-45,Office Supplies,Appliances,Appliances Item,447.77,3,0.3,-61.79
+IN-2025-1122,2025-06-26,2025-06-27,CUST-779,Sneha Kulkarni,Home Office,India,Kerala,South,PROD-OFF-30,Office Supplies,Art,Art Item,440.71,5,0.15,61.31
+IN-2025-1226,2025-06-28,2025-07-03,CUST-402,Karan Malhotra,Corporate,India,Telangana,South,PROD-FUR-61,Furniture,Tables,Tables Item,1306.87,3,0.3,-152.09
+IN-2025-1090,2025-06-29,2025-07-01,CUST-402,Karan Malhotra,Home Office,India,Telangana,South,PROD-FUR-42,Furniture,Tables,Tables Item,6015.86,8,0.1,673.02
+IN-2025-1510,2025-06-29,2025-07-02,CUST-666,Rohan Mehta,Home Office,India,Kerala,South,PROD-TEC-20,Technology,Accessories,Accessories Item,4465.1,3,0.15,259.75
+IN-2025-1314,2025-07-04,2025-07-05,CUST-322,Siddharth Das,Consumer,India,Rajasthan,West,PROD-FUR-10,Furniture,Chairs,Chairs Item,1858.35,4,0.05,361.39
+IN-2025-1329,2025-07-05,2025-07-10,CUST-557,Ishita Gupta,Consumer,India,Rajasthan,West,PROD-OFF-71,Office Supplies,Binders,Binders Item,393.88,2,0.15,51.84
+IN-2025-1138,2025-07-06,2025-07-08,CUST-281,Aarav Sharma,Corporate,India,Himachal Pradesh,North,PROD-TEC-35,Technology,Laptops,Laptops Item,8794.9,6,0.1,1435.75
+IN-2025-1377,2025-07-06,2025-07-11,CUST-666,Rohan Mehta,Home Office,India,Chhattisgarh,Central,PROD-OFF-68,Office Supplies,Storage,Storage Item,298.69,2,0.05,70.54
+IN-2025-1481,2025-07-11,2025-07-16,CUST-182,Neha Reddy,Corporate,India,Haryana,North,PROD-OFF-44,Office Supplies,Paper,Paper Item,875.44,8,0.05,207.97
+IN-2025-1338,2025-07-15,2025-07-18,CUST-281,Aarav Sharma,Home Office,India,Himachal Pradesh,North,PROD-OFF-25,Office Supplies,Art,Art Item,1343.64,8,0.15,107.98
+IN-2025-1033,2025-07-17,2025-07-21,CUST-436,Kavya Menon,Consumer,India,Bihar,East,PROD-FUR-92,Furniture,Bookcases,Bookcases Item,3192.33,6,0.0,1043.68
+IN-2025-1177,2025-07-17,2025-07-18,CUST-182,Neha Reddy,Corporate,India,Odisha,East,PROD-OFF-33,Office Supplies,Storage,Storage Item,125.49,6,0.1,19.02
+IN-2025-1178,2025-07-17,2025-07-19,CUST-577,Arjun Bansal,Corporate,India,Uttar Pradesh,Central,PROD-FUR-21,Furniture,Bookcases,Bookcases Item,856.19,2,0.05,93.43
+IN-2025-1262,2025-07-20,2025-07-25,CUST-281,Aarav Sharma,Corporate,India,Tamil Nadu,South,PROD-TEC-79,Technology,Smartphones,Smartphones Item,737.67,1,0.1,204.67
+IN-2025-1271,2025-07-22,2025-07-26,CUST-577,Arjun Bansal,Corporate,India,Karnataka,South,PROD-TEC-69,Technology,Laptops,Laptops Item,1842.19,7,0.3,-76.32
+IN-2025-1444,2025-07-22,2025-07-26,CUST-402,Karan Malhotra,Home Office,India,Gujarat,West,PROD-OFF-41,Office Supplies,Art,Art Item,321.86,5,0.15,51.24
+IN-2025-1323,2025-07-24,2025-07-27,CUST-355,Priya Nair,Home Office,India,Madhya Pradesh,Central,PROD-FUR-30,Furniture,Bookcases,Bookcases Item,1364.61,8,0.05,233.22
+IN-2025-1600,2025-07-24,2025-07-28,CUST-557,Ishita Gupta,Home Office,India,Rajasthan,West,PROD-FUR-12,Furniture,Tables,Tables Item,1490.12,3,0.2,93.43
+IN-2025-1302,2025-07-25,2025-07-26,CUST-779,Sneha Kulkarni,Consumer,India,Karnataka,South,PROD-FUR-45,Furniture,Tables,Tables Item,2728.09,8,0.2,240.79
+IN-2025-1520,2025-07-25,2025-07-30,CUST-322,Siddharth Das,Corporate,India,Gujarat,West,PROD-TEC-79,Technology,Smartphones,Smartphones Item,4649.8,4,0.2,123.99
+IN-2025-1168,2025-07-28,2025-08-01,CUST-577,Arjun Bansal,Corporate,India,Uttar Pradesh,Central,PROD-OFF-27,Office Supplies,Paper,Paper Item,585.05,6,0.3,-38.17
+IN-2025-1597,2025-07-30,2025-08-02,CUST-666,Rohan Mehta,Home Office,India,Rajasthan,West,PROD-FUR-65,Furniture,Bookcases,Bookcases Item,482.11,2,0.2,64.59
+IN-2025-1290,2025-07-31,2025-08-02,CUST-779,Sneha Kulkarni,Consumer,India,West Bengal,East,PROD-FUR-70,Furniture,Furnishings,Furnishings Item,2584.11,5,0.0,572.71
+IN-2025-1370,2025-07-31,2025-08-05,CUST-779,Sneha Kulkarni,Corporate,India,Assam,East,PROD-TEC-93,Technology,Laptops,Laptops Item,2751.37,5,0.3,-10.47
+IN-2025-1431,2025-08-02,2025-08-06,CUST-530,Rahul Joshi,Home Office,India,Himachal Pradesh,North,PROD-TEC-81,Technology,Accessories,Accessories Item,8915.86,7,0.1,902.98
+IN-2025-1351,2025-08-07,2025-08-10,CUST-936,Vikram Rao,Consumer,India,Bihar,East,PROD-OFF-70,Office Supplies,Art,Art Item,249.23,1,0.0,53.89
+IN-2025-1439,2025-08-11,2025-08-12,CUST-666,Rohan Mehta,Corporate,India,Assam,East,PROD-OFF-22,Office Supplies,Art,Art Item,784.52,5,0.0,159.92
+IN-2025-1235,2025-08-12,2025-08-16,CUST-936,Vikram Rao,Consumer,India,Punjab,North,PROD-FUR-54,Furniture,Bookcases,Bookcases Item,1354.3,2,0.15,42.92
+IN-2025-1310,2025-08-16,2025-08-21,CUST-402,Karan Malhotra,Corporate,India,Rajasthan,West,PROD-TEC-47,Technology,Smartphones,Smartphones Item,937.45,3,0.3,-2.32
+IN-2025-1068,2025-08-19,2025-08-21,CUST-608,Diya Patel,Consumer,India,Odisha,East,PROD-TEC-86,Technology,Accessories,Accessories Item,6049.61,5,0.15,1246.43
+IN-2025-1412,2025-08-21,2025-08-22,CUST-355,Priya Nair,Corporate,India,Rajasthan,West,PROD-FUR-48,Furniture,Tables,Tables Item,426.38,3,0.1,91.27
+IN-2025-1016,2025-08-23,2025-08-24,CUST-608,Diya Patel,Home Office,India,Haryana,North,PROD-TEC-95,Technology,Accessories,Accessories Item,2159.06,3,0.3,-422.87
+IN-2025-1060,2025-08-25,2025-08-26,CUST-608,Diya Patel,Home Office,India,Telangana,South,PROD-OFF-34,Office Supplies,Binders,Binders Item,502.33,8,0.1,58.65
+IN-2025-1098,2025-08-27,2025-08-30,CUST-936,Vikram Rao,Consumer,India,Karnataka,South,PROD-TEC-32,Technology,Accessories,Accessories Item,441.65,1,0.05,138.09
+IN-2025-1044,2025-08-29,2025-09-01,CUST-577,Arjun Bansal,Home Office,India,Bihar,East,PROD-TEC-29,Technology,Smartphones,Smartphones Item,1358.47,3,0.3,13.99
+IN-2025-1395,2025-08-29,2025-08-31,CUST-643,Ananya Iyer,Consumer,India,Odisha,East,PROD-TEC-29,Technology,Accessories,Accessories Item,2936.82,2,0.0,630.94
+IN-2025-1538,2025-08-29,2025-09-02,CUST-355,Priya Nair,Corporate,India,Uttar Pradesh,Central,PROD-TEC-39,Technology,Accessories,Accessories Item,8370.24,6,0.05,2470.43
+IN-2025-1144,2025-08-30,2025-09-02,CUST-557,Ishita Gupta,Consumer,India,Assam,East,PROD-OFF-96,Office Supplies,Binders,Binders Item,666.8,6,0.1,119.44
+IN-2025-1401,2025-08-30,2025-09-04,CUST-643,Ananya Iyer,Consumer,India,Goa,West,PROD-OFF-70,Office Supplies,Binders,Binders Item,523.52,3,0.15,61.64
+IN-2025-1020,2025-08-31,2025-09-02,CUST-779,Sneha Kulkarni,Consumer,India,Goa,West,PROD-FUR-31,Furniture,Chairs,Chairs Item,2735.65,7,0.1,196.65
+IN-2025-1031,2025-08-31,2025-09-02,CUST-281,Aarav Sharma,Consumer,India,Kerala,South,PROD-OFF-62,Office Supplies,Storage,Storage Item,736.25,4,0.1,178.47
+IN-2025-1149,2025-08-31,2025-09-04,CUST-402,Karan Malhotra,Home Office,India,Haryana,North,PROD-FUR-80,Furniture,Furnishings,Furnishings Item,494.66,2,0.0,142.53
+IN-2025-1099,2025-09-01,2025-09-06,CUST-666,Rohan Mehta,Corporate,India,West Bengal,East,PROD-TEC-63,Technology,Smartphones,Smartphones Item,1851.52,2,0.15,240.36
+IN-2025-1134,2025-09-01,2025-09-04,CUST-643,Ananya Iyer,Corporate,India,Delhi,North,PROD-OFF-68,Office Supplies,Art,Art Item,220.45,8,0.2,11.79
+IN-2025-1469,2025-09-01,2025-09-03,CUST-779,Sneha Kulkarni,Corporate,India,Uttar Pradesh,Central,PROD-FUR-20,Furniture,Furnishings,Furnishings Item,570.87,1,0.05,74.26
+IN-2025-1079,2025-09-02,2025-09-07,CUST-436,Kavya Menon,Corporate,India,Gujarat,West,PROD-TEC-70,Technology,Accessories,Accessories Item,8079.16,7,0.15,22.03
+IN-2025-1389,2025-09-02,2025-09-03,CUST-936,Vikram Rao,Corporate,India,Karnataka,South,PROD-FUR-61,Furniture,Furnishings,Furnishings Item,412.69,1,0.3,-53.49
+IN-2025-1066,2025-09-03,2025-09-05,CUST-666,Rohan Mehta,Consumer,India,Madhya Pradesh,Central,PROD-FUR-98,Furniture,Furnishings,Furnishings Item,2976.79,5,0.0,904.06
+IN-2025-1058,2025-09-04,2025-09-08,CUST-530,Rahul Joshi,Consumer,India,Goa,West,PROD-TEC-38,Technology,Accessories,Accessories Item,3263.77,4,0.1,425.05
+IN-2025-1160,2025-09-04,2025-09-06,CUST-281,Aarav Sharma,Consumer,India,Chhattisgarh,Central,PROD-FUR-86,Furniture,Furnishings,Furnishings Item,5844.63,8,0.1,926.45
+IN-2025-1214,2025-09-06,2025-09-11,CUST-322,Siddharth Das,Corporate,India,Madhya Pradesh,Central,PROD-TEC-44,Technology,Smartphones,Smartphones Item,5712.9,8,0.05,1727.98
+IN-2025-1447,2025-09-06,2025-09-11,CUST-281,Aarav Sharma,Corporate,India,Telangana,South,PROD-OFF-49,Office Supplies,Paper,Paper Item,111.16,1,0.1,25.71
+IN-2025-1056,2025-09-07,2025-09-11,CUST-322,Siddharth Das,Corporate,India,Uttar Pradesh,Central,PROD-FUR-73,Furniture,Chairs,Chairs Item,2009.95,3,0.15,372.61
+IN-2025-1116,2025-09-07,2025-09-11,CUST-402,Karan Malhotra,Consumer,India,Chhattisgarh,Central,PROD-FUR-53,Furniture,Bookcases,Bookcases Item,948.54,3,0.0,235.15
+IN-2025-1569,2025-09-08,2025-09-09,CUST-779,Sneha Kulkarni,Consumer,India,Haryana,North,PROD-OFF-84,Office Supplies,Storage,Storage Item,822.22,7,0.1,113.65
+IN-2025-1462,2025-09-09,2025-09-14,CUST-182,Neha Reddy,Consumer,India,Chhattisgarh,Central,PROD-OFF-76,Office Supplies,Appliances,Appliances Item,186.19,1,0.05,47.39
+IN-2025-1170,2025-09-10,2025-09-13,CUST-643,Ananya Iyer,Corporate,India,Chhattisgarh,Central,PROD-FUR-98,Furniture,Tables,Tables Item,3461.58,6,0.15,530.39
+IN-2025-1158,2025-09-11,2025-09-13,CUST-936,Vikram Rao,Corporate,India,Delhi,North,PROD-OFF-41,Office Supplies,Appliances,Appliances Item,651.83,3,0.1,45.81
+IN-2025-1130,2025-09-14,2025-09-15,CUST-402,Karan Malhotra,Consumer,India,Rajasthan,West,PROD-OFF-25,Office Supplies,Art,Art Item,231.02,3,0.1,41.1
+IN-2025-1408,2025-09-15,2025-09-16,CUST-489,Aditya Verma,Consumer,India,Tamil Nadu,South,PROD-TEC-70,Technology,Laptops,Laptops Item,954.25,1,0.15,106.88
+IN-2025-1220,2025-09-16,2025-09-18,CUST-608,Diya Patel,Corporate,India,Goa,West,PROD-OFF-84,Office Supplies,Appliances,Appliances Item,628.24,7,0.2,112.02
+IN-2025-1518,2025-09-17,2025-09-20,CUST-322,Siddharth Das,Corporate,India,Maharashtra,West,PROD-FUR-98,Furniture,Furnishings,Furnishings Item,4468.74,6,0.1,1080.48
+IN-2025-1185,2025-09-18,2025-09-19,CUST-281,Aarav Sharma,Corporate,India,Karnataka,South,PROD-FUR-79,Furniture,Chairs,Chairs Item,1522.51,2,0.15,346.87
+IN-2025-1403,2025-09-18,2025-09-22,CUST-182,Neha Reddy,Corporate,India,Himachal Pradesh,North,PROD-FUR-56,Furniture,Bookcases,Bookcases Item,2566.18,5,0.1,701.52
+IN-2025-1172,2025-09-20,2025-09-24,CUST-436,Kavya Menon,Home Office,India,Tamil Nadu,South,PROD-FUR-27,Furniture,Bookcases,Bookcases Item,881.3,4,0.05,268.89
+IN-2025-1057,2025-09-22,2025-09-25,CUST-402,Karan Malhotra,Consumer,India,Bihar,East,PROD-OFF-20,Office Supplies,Binders,Binders Item,449.3,7,0.15,47.03
+IN-2025-1304,2025-09-22,2025-09-23,CUST-489,Aditya Verma,Consumer,India,West Bengal,East,PROD-TEC-38,Technology,Smartphones,Smartphones Item,4575.85,4,0.1,608.5
+IN-2025-1256,2025-09-23,2025-09-25,CUST-182,Neha Reddy,Corporate,India,Odisha,East,PROD-OFF-13,Office Supplies,Paper,Paper Item,611.43,7,0.1,98.66
+IN-2025-1034,2025-09-25,2025-09-27,CUST-281,Aarav Sharma,Consumer,India,Chhattisgarh,Central,PROD-OFF-54,Office Supplies,Appliances,Appliances Item,956.58,6,0.15,88.63
+IN-2025-1257,2025-09-27,2025-10-02,CUST-779,Sneha Kulkarni,Home Office,India,Himachal Pradesh,North,PROD-FUR-73,Furniture,Chairs,Chairs Item,2145.2,3,0.1,520.89
+IN-2025-1598,2025-09-29,2025-09-30,CUST-530,Rahul Joshi,Consumer,India,Assam,East,PROD-OFF-84,Office Supplies,Paper,Paper Item,225.66,6,0.1,59.31
+IN-2025-1108,2025-10-01,2025-10-02,CUST-182,Neha Reddy,Corporate,India,Telangana,South,PROD-FUR-10,Furniture,Bookcases,Bookcases Item,686.53,3,0.2,15.9
+IN-2025-1344,2025-10-01,2025-10-03,CUST-666,Rohan Mehta,Consumer,India,Bihar,East,PROD-OFF-36,Office Supplies,Storage,Storage Item,173.99,1,0.1,16.85
+IN-2025-1407,2025-10-01,2025-10-06,CUST-577,Arjun Bansal,Corporate,India,Rajasthan,West,PROD-FUR-62,Furniture,Furnishings,Furnishings Item,261.71,1,0.05,42.54
+IN-2025-1007,2025-10-04,2025-10-09,CUST-436,Kavya Menon,Consumer,India,Telangana,South,PROD-TEC-50,Technology,Laptops,Laptops Item,1713.32,2,0.05,211.68
+IN-2025-1450,2025-10-05,2025-10-08,CUST-936,Vikram Rao,Home Office,India,Delhi,North,PROD-FUR-58,Furniture,Tables,Tables Item,956.53,2,0.1,162.68
+IN-2025-1210,2025-10-07,2025-10-11,CUST-355,Priya Nair,Home Office,India,Gujarat,West,PROD-FUR-33,Furniture,Furnishings,Furnishings Item,4618.4,7,0.0,903.21
+IN-2025-1571,2025-10-07,2025-10-10,CUST-281,Aarav Sharma,Corporate,India,Rajasthan,West,PROD-FUR-75,Furniture,Chairs,Chairs Item,886.08,3,0.0,204.02
+IN-2025-1062,2025-10-08,2025-10-09,CUST-182,Neha Reddy,Consumer,India,Haryana,North,PROD-OFF-23,Office Supplies,Appliances,Appliances Item,938.08,5,0.15,115.06
+IN-2025-1171,2025-10-08,2025-10-11,CUST-577,Arjun Bansal,Corporate,India,Himachal Pradesh,North,PROD-FUR-47,Furniture,Tables,Tables Item,326.79,2,0.1,23.67
+IN-2025-1457,2025-10-08,2025-10-10,CUST-666,Rohan Mehta,Consumer,India,Karnataka,South,PROD-TEC-87,Technology,Accessories,Accessories Item,3681.81,4,0.2,476.63
+IN-2025-1143,2025-10-09,2025-10-10,CUST-355,Priya Nair,Home Office,India,Himachal Pradesh,North,PROD-OFF-13,Office Supplies,Binders,Binders Item,422.71,8,0.0,137.27
+IN-2025-1003,2025-10-12,2025-10-13,CUST-355,Priya Nair,Corporate,India,Kerala,South,PROD-TEC-53,Technology,Smartphones,Smartphones Item,3173.21,7,0.0,882.8
+IN-2025-1240,2025-10-12,2025-10-15,CUST-355,Priya Nair,Home Office,India,Goa,West,PROD-TEC-68,Technology,Laptops,Laptops Item,7513.56,6,0.0,1434.07
+IN-2025-1470,2025-10-12,2025-10-17,CUST-281,Aarav Sharma,Consumer,India,Madhya Pradesh,Central,PROD-TEC-93,Technology,Laptops,Laptops Item,2470.59,3,0.0,535.13
+IN-2025-1509,2025-10-12,2025-10-15,CUST-936,Vikram Rao,Corporate,India,Telangana,South,PROD-TEC-87,Technology,Laptops,Laptops Item,1180.03,3,0.3,-66.31
+IN-2025-1562,2025-10-12,2025-10-14,CUST-402,Karan Malhotra,Corporate,India,Delhi,North,PROD-OFF-75,Office Supplies,Paper,Paper Item,797.17,8,0.1,114.59
+IN-2025-1019,2025-10-13,2025-10-17,CUST-779,Sneha Kulkarni,Home Office,India,Karnataka,South,PROD-TEC-93,Technology,Laptops,Laptops Item,1798.92,1,0.0,296.33
+IN-2025-1580,2025-10-16,2025-10-18,CUST-182,Neha Reddy,Consumer,India,Madhya Pradesh,Central,PROD-TEC-56,Technology,Printers,Printers Item,3435.36,3,0.15,263.9
+IN-2025-1067,2025-10-17,2025-10-21,CUST-577,Arjun Bansal,Corporate,India,Punjab,North,PROD-OFF-94,Office Supplies,Art,Art Item,696.65,4,0.15,145.1
+IN-2025-1353,2025-10-17,2025-10-18,CUST-402,Karan Malhotra,Home Office,India,Chhattisgarh,Central,PROD-FUR-15,Furniture,Furnishings,Furnishings Item,1340.37,4,0.1,219.25
+IN-2025-1376,2025-10-18,2025-10-19,CUST-557,Ishita Gupta,Corporate,India,Kerala,South,PROD-FUR-38,Furniture,Tables,Tables Item,1854.65,3,0.2,-32.67
+IN-2025-1533,2025-10-18,2025-10-22,CUST-643,Ananya Iyer,Consumer,India,Gujarat,West,PROD-OFF-76,Office Supplies,Storage,Storage Item,469.67,4,0.05,87.95
+IN-2025-1556,2025-10-23,2025-10-24,CUST-936,Vikram Rao,Corporate,India,Telangana,South,PROD-TEC-78,Technology,Smartphones,Smartphones Item,1528.53,3,0.3,-193.4
+IN-2025-1113,2025-10-24,2025-10-27,CUST-779,Sneha Kulkarni,Home Office,India,Delhi,North,PROD-FUR-26,Furniture,Tables,Tables Item,1392.5,4,0.2,66.59
+IN-2025-1115,2025-10-24,2025-10-25,CUST-355,Priya Nair,Consumer,India,Maharashtra,West,PROD-OFF-98,Office Supplies,Appliances,Appliances Item,393.63,2,0.15,14.4
+IN-2025-1342,2025-10-25,2025-10-28,CUST-402,Karan Malhotra,Home Office,India,Tamil Nadu,South,PROD-OFF-24,Office Supplies,Storage,Storage Item,1247.86,8,0.2,55.95
+IN-2025-1076,2025-10-26,2025-10-31,CUST-436,Kavya Menon,Corporate,India,Assam,East,PROD-FUR-68,Furniture,Tables,Tables Item,3746.93,7,0.05,456.04
+IN-2025-1282,2025-10-29,2025-10-31,CUST-182,Neha Reddy,Home Office,India,Karnataka,South,PROD-FUR-33,Furniture,Chairs,Chairs Item,1685.02,4,0.3,-151.91
+IN-2025-1312,2025-10-29,2025-11-02,CUST-281,Aarav Sharma,Home Office,India,Himachal Pradesh,North,PROD-OFF-89,Office Supplies,Art,Art Item,116.41,4,0.2,18.34
+IN-2025-1142,2025-10-30,2025-11-02,CUST-666,Rohan Mehta,Home Office,India,Goa,West,PROD-FUR-67,Furniture,Bookcases,Bookcases Item,5671.12,6,0.2,-281.48
+IN-2025-1181,2025-10-30,2025-11-02,CUST-643,Ananya Iyer,Consumer,India,Madhya Pradesh,Central,PROD-FUR-68,Furniture,Tables,Tables Item,3625.09,6,0.15,254.24
+IN-2025-1211,2025-10-30,2025-11-01,CUST-936,Vikram Rao,Consumer,India,Delhi,North,PROD-FUR-59,Furniture,Tables,Tables Item,775.02,2,0.0,270.45
+IN-2025-1165,2025-11-03,2025-11-08,CUST-182,Neha Reddy,Home Office,India,Assam,East,PROD-FUR-12,Furniture,Furnishings,Furnishings Item,724.66,2,0.15,70.99
+IN-2025-1269,2025-11-03,2025-11-06,CUST-489,Aditya Verma,Corporate,India,Karnataka,South,PROD-OFF-41,Office Supplies,Art,Art Item,79.39,2,0.05,23.04
+IN-2025-1482,2025-11-06,2025-11-08,CUST-666,Rohan Mehta,Consumer,India,Chhattisgarh,Central,PROD-FUR-35,Furniture,Chairs,Chairs Item,5344.1,8,0.2,968.71
+IN-2025-1069,2025-11-08,2025-11-12,CUST-779,Sneha Kulkarni,Consumer,India,Assam,East,PROD-OFF-65,Office Supplies,Paper,Paper Item,944.71,5,0.0,313.39
+IN-2025-1152,2025-11-08,2025-11-10,CUST-577,Arjun Bansal,Home Office,India,Telangana,South,PROD-TEC-76,Technology,Accessories,Accessories Item,2956.3,2,0.1,692.23
+IN-2025-1268,2025-11-08,2025-11-13,CUST-436,Kavya Menon,Corporate,India,Punjab,North,PROD-TEC-41,Technology,Laptops,Laptops Item,9814.56,7,0.2,1720.12
+IN-2025-1244,2025-11-09,2025-11-11,CUST-182,Neha Reddy,Consumer,India,Maharashtra,West,PROD-TEC-71,Technology,Smartphones,Smartphones Item,1334.11,4,0.2,23.36
+IN-2025-1306,2025-11-09,2025-11-12,CUST-436,Kavya Menon,Corporate,India,Goa,West,PROD-FUR-37,Furniture,Bookcases,Bookcases Item,2800.13,7,0.2,453.4
+IN-2025-1546,2025-11-09,2025-11-11,CUST-779,Sneha Kulkarni,Corporate,India,Maharashtra,West,PROD-TEC-33,Technology,Printers,Printers Item,6236.11,6,0.3,-381.82
+IN-2025-1595,2025-11-09,2025-11-10,CUST-281,Aarav Sharma,Home Office,India,Odisha,East,PROD-FUR-68,Furniture,Chairs,Chairs Item,3602.62,7,0.2,211.87
+IN-2025-1013,2025-11-11,2025-11-13,CUST-577,Arjun Bansal,Home Office,India,Punjab,North,PROD-TEC-72,Technology,Laptops,Laptops Item,4343.5,3,0.05,768.34
+IN-2025-1030,2025-11-12,2025-11-15,CUST-643,Ananya Iyer,Home Office,India,Haryana,North,PROD-TEC-55,Technology,Laptops,Laptops Item,8232.98,7,0.2,1.08
+IN-2025-1212,2025-11-12,2025-11-16,CUST-608,Diya Patel,Consumer,India,Bihar,East,PROD-TEC-65,Technology,Smartphones,Smartphones Item,6812.86,7,0.0,2348.72
+IN-2025-1477,2025-11-12,2025-11-15,CUST-355,Priya Nair,Consumer,India,Uttar Pradesh,Central,PROD-TEC-53,Technology,Accessories,Accessories Item,849.37,1,0.05,233.53
+IN-2025-1561,2025-11-12,2025-11-13,CUST-779,Sneha Kulkarni,Corporate,India,Gujarat,West,PROD-TEC-17,Technology,Accessories,Accessories Item,3879.13,4,0.2,216.81
+IN-2025-1052,2025-11-16,2025-11-21,CUST-182,Neha Reddy,Consumer,India,Goa,West,PROD-TEC-23,Technology,Smartphones,Smartphones Item,4710.26,5,0.3,-471.58
+IN-2025-1104,2025-11-17,2025-11-21,CUST-355,Priya Nair,Consumer,India,Bihar,East,PROD-OFF-18,Office Supplies,Appliances,Appliances Item,81.96,2,0.0,21.6
+IN-2025-1157,2025-11-17,2025-11-20,CUST-666,Rohan Mehta,Corporate,India,Assam,East,PROD-OFF-23,Office Supplies,Art,Art Item,747.17,8,0.0,221.54
+IN-2025-1159,2025-11-17,2025-11-19,CUST-402,Karan Malhotra,Corporate,India,Kerala,South,PROD-FUR-73,Furniture,Bookcases,Bookcases Item,937.34,7,0.2,68.61
+IN-2025-1229,2025-11-17,2025-11-22,CUST-557,Ishita Gupta,Consumer,India,Goa,West,PROD-FUR-68,Furniture,Bookcases,Bookcases Item,2452.09,5,0.2,97.98
+IN-2025-1024,2025-11-18,2025-11-20,CUST-666,Rohan Mehta,Home Office,India,Assam,East,PROD-OFF-68,Office Supplies,Storage,Storage Item,185.44,2,0.0,47.91
+IN-2025-1267,2025-11-18,2025-11-22,CUST-530,Rahul Joshi,Consumer,India,Haryana,North,PROD-FUR-69,Furniture,Bookcases,Bookcases Item,697.51,2,0.0,222.14
+IN-2025-1498,2025-11-21,2025-11-24,CUST-936,Vikram Rao,Corporate,India,Uttar Pradesh,Central,PROD-OFF-21,Office Supplies,Storage,Storage Item,1024.28,7,0.05,139.62
+IN-2025-1350,2025-11-22,2025-11-27,CUST-402,Karan Malhotra,Consumer,India,Tamil Nadu,South,PROD-OFF-63,Office Supplies,Binders,Binders Item,1014.36,7,0.0,284.14
+IN-2025-1225,2025-11-23,2025-11-24,CUST-530,Rahul Joshi,Home Office,India,West Bengal,East,PROD-TEC-53,Technology,Laptops,Laptops Item,2671.11,3,0.3,4.65
+IN-2025-1191,2025-11-25,2025-11-27,CUST-322,Siddharth Das,Home Office,India,Odisha,East,PROD-TEC-48,Technology,Printers,Printers Item,1496.73,3,0.3,-183.35
+IN-2025-1486,2025-11-25,2025-11-27,CUST-936,Vikram Rao,Home Office,India,Telangana,South,PROD-FUR-95,Furniture,Furnishings,Furnishings Item,678.98,3,0.05,175.3
+IN-2025-1110,2025-11-29,2025-12-04,CUST-577,Arjun Bansal,Consumer,India,Madhya Pradesh,Central,PROD-TEC-89,Technology,Smartphones,Smartphones Item,674.36,2,0.1,120.92
+IN-2025-1308,2025-11-29,2025-12-02,CUST-643,Ananya Iyer,Consumer,India,Bihar,East,PROD-OFF-17,Office Supplies,Binders,Binders Item,1005.72,7,0.3,-19.99
+IN-2025-1218,2025-11-30,2025-12-04,CUST-355,Priya Nair,Consumer,India,Assam,East,PROD-OFF-85,Office Supplies,Binders,Binders Item,523.68,3,0.3,-77.45
+IN-2025-1266,2025-12-01,2025-12-04,CUST-643,Ananya Iyer,Consumer,India,Rajasthan,West,PROD-TEC-84,Technology,Smartphones,Smartphones Item,880.57,2,0.05,194.73
+IN-2025-1199,2025-12-04,2025-12-06,CUST-779,Sneha Kulkarni,Home Office,India,Gujarat,West,PROD-OFF-42,Office Supplies,Storage,Storage Item,1095.21,8,0.3,-122.57
+IN-2025-1036,2025-12-05,2025-12-10,CUST-182,Neha Reddy,Corporate,India,West Bengal,East,PROD-OFF-95,Office Supplies,Storage,Storage Item,558.26,7,0.3,-7.28
+IN-2025-1490,2025-12-07,2025-12-09,CUST-577,Arjun Bansal,Corporate,India,Madhya Pradesh,Central,PROD-OFF-21,Office Supplies,Binders,Binders Item,662.26,8,0.6,-662.26
+IN-2025-1537,2025-12-09,2025-12-14,CUST-608,Diya Patel,Home Office,India,Maharashtra,West,PROD-TEC-30,Technology,Smartphones,Smartphones Item,9460.72,8,0.2,1499.37
+IN-2025-1284,2025-12-10,2025-12-14,CUST-643,Ananya Iyer,Consumer,India,Haryana,North,PROD-OFF-54,Office Supplies,Paper,Paper Item,110.64,2,0.3,7.86
+IN-2025-1531,2025-12-10,2025-12-11,CUST-666,Rohan Mehta,Corporate,India,Haryana,North,PROD-TEC-80,Technology,Accessories,Accessories Item,1752.03,4,0.2,310.68
+IN-2025-1548,2025-12-10,2025-12-11,CUST-355,Priya Nair,Consumer,India,Uttar Pradesh,Central,PROD-TEC-56,Technology,Printers,Printers Item,898.23,1,0.1,176.37
+IN-2025-1443,2025-12-11,2025-12-12,CUST-402,Karan Malhotra,Corporate,India,Maharashtra,West,PROD-FUR-61,Furniture,Chairs,Chairs Item,1500.15,3,0.05,321.85
+IN-2025-1406,2025-12-12,2025-12-16,CUST-489,Aditya Verma,Consumer,India,Uttar Pradesh,Central,PROD-TEC-53,Technology,Smartphones,Smartphones Item,2697.77,6,0.3,-31.88
+IN-2025-1091,2025-12-13,2025-12-14,CUST-666,Rohan Mehta,Consumer,India,Maharashtra,West,PROD-OFF-81,Office Supplies,Appliances,Appliances Item,728.9,7,0.0,216.56
+IN-2025-1123,2025-12-13,2025-12-18,CUST-608,Diya Patel,Corporate,India,Haryana,North,PROD-TEC-46,Technology,Printers,Printers Item,1830.58,3,0.1,475.34
+IN-2025-1478,2025-12-13,2025-12-17,CUST-322,Siddharth Das,Consumer,India,Maharashtra,West,PROD-FUR-90,Furniture,Tables,Tables Item,2526.86,6,0.15,128.43
+IN-2025-1163,2025-12-14,2025-12-19,CUST-643,Ananya Iyer,Home Office,India,Odisha,East,PROD-OFF-74,Office Supplies,Appliances,Appliances Item,27.8,1,0.05,4.61
+IN-2025-1063,2025-12-15,2025-12-17,CUST-436,Kavya Menon,Corporate,India,Haryana,North,PROD-TEC-61,Technology,Laptops,Laptops Item,985.74,1,0.05,280.33
+IN-2025-1418,2025-12-17,2025-12-21,CUST-355,Priya Nair,Corporate,India,Assam,East,PROD-OFF-52,Office Supplies,Paper,Paper Item,115.35,3,0.0,34.22
+IN-2025-1242,2025-12-18,2025-12-19,CUST-322,Siddharth Das,Corporate,India,Delhi,North,PROD-TEC-30,Technology,Laptops,Laptops Item,817.64,1,0.15,153.46
+IN-2025-1004,2025-12-19,2025-12-24,CUST-182,Neha Reddy,Corporate,India,West Bengal,East,PROD-OFF-58,Office Supplies,Paper,Paper Item,133.43,5,0.3,-14.05
+IN-2025-1151,2025-12-19,2025-12-21,CUST-557,Ishita Gupta,Consumer,India,Uttar Pradesh,Central,PROD-TEC-74,Technology,Printers,Printers Item,1666.07,1,0.0,410.49
+IN-2025-1317,2025-12-19,2025-12-22,CUST-489,Aditya Verma,Home Office,India,Karnataka,South,PROD-OFF-31,Office Supplies,Storage,Storage Item,31.51,1,0.1,2.11
+IN-2025-1361,2025-12-19,2025-12-21,CUST-666,Rohan Mehta,Consumer,India,Gujarat,West,PROD-TEC-34,Technology,Accessories,Accessories Item,377.55,1,0.2,27.26
+IN-2025-1137,2025-12-20,2025-12-22,CUST-666,Rohan Mehta,Consumer,India,Haryana,North,PROD-FUR-92,Furniture,Bookcases,Bookcases Item,1575.37,8,0.3,-102.87
+IN-2025-1372,2025-12-20,2025-12-24,CUST-402,Karan Malhotra,Consumer,India,Maharashtra,West,PROD-FUR-39,Furniture,Tables,Tables Item,987.13,5,0.05,280.51
+IN-2025-1398,2025-12-22,2025-12-26,CUST-608,Diya Patel,Home Office,India,Kerala,South,PROD-OFF-50,Office Supplies,Appliances,Appliances Item,124.96,1,0.3,1.4
+IN-2025-1107,2025-12-25,2025-12-30,CUST-530,Rahul Joshi,Corporate,India,West Bengal,East,PROD-OFF-64,Office Supplies,Binders,Binders Item,171.51,1,0.2,-7.68
+IN-2025-1446,2025-12-25,2025-12-30,CUST-779,Sneha Kulkarni,Consumer,India,Gujarat,West,PROD-TEC-97,Technology,Smartphones,Smartphones Item,1721.46,2,0.0,347.88
+IN-2025-1573,2025-12-27,2025-12-29,CUST-402,Karan Malhotra,Corporate,India,Punjab,North,PROD-FUR-62,Furniture,Furnishings,Furnishings Item,1215.7,3,0.0,372.52
+IN-2025-1114,2025-12-29,2025-12-30,CUST-489,Aditya Verma,Consumer,India,Maharashtra,West,PROD-FUR-50,Furniture,Chairs,Chairs Item,2850.91,7,0.3,-317.79
+IN-2025-1213,2025-12-29,2026-01-03,CUST-436,Kavya Menon,Corporate,India,Haryana,North,PROD-TEC-62,Technology,Accessories,Accessories Item,1234.38,2,0.3,-229.64
+IN-2025-1480,2025-12-29,2025-12-30,CUST-436,Kavya Menon,Consumer,India,Telangana,South,PROD-FUR-90,Furniture,Furnishings,Furnishings Item,1321.69,3,0.2,47.68
+IN-2025-1514,2025-12-29,2026-01-02,CUST-436,Kavya Menon,Corporate,India,Uttar Pradesh,Central,PROD-FUR-44,Furniture,Bookcases,Bookcases Item,2631.08,5,0.3,-251.21
+IN-2025-1424,2025-12-31,2026-01-02,CUST-666,Rohan Mehta,Corporate,India,Madhya Pradesh,Central,PROD-TEC-81,Technology,Accessories,Accessories Item,7562.5,6,0.15,474.77
+IN-2025-1438,2025-12-31,2026-01-02,CUST-355,Priya Nair,Home Office,India,Telangana,South,PROD-TEC-42,Technology,Smartphones,Smartphones Item,2426.58,2,0.2,212.45
+IN-2025-1594,2026-01-01,2026-01-05,CUST-322,Siddharth Das,Consumer,India,West Bengal,East,PROD-TEC-92,Technology,Smartphones,Smartphones Item,1075.41,2,0.3,56.69
+IN-2025-1221,2026-01-04,2026-01-09,CUST-577,Arjun Bansal,Consumer,India,Uttar Pradesh,Central,PROD-TEC-94,Technology,Smartphones,Smartphones Item,2723.79,3,0.3,-282.24
+IN-2025-1326,2026-01-04,2026-01-07,CUST-608,Diya Patel,Consumer,India,Maharashtra,West,PROD-TEC-94,Technology,Smartphones,Smartphones Item,6862.31,6,0.1,542.08
+IN-2025-1472,2026-01-04,2026-01-05,CUST-355,Priya Nair,Corporate,India,Haryana,North,PROD-FUR-64,Furniture,Chairs,Chairs Item,1408.47,2,0.1,243.88
+IN-2025-1501,2026-01-04,2026-01-08,CUST-436,Kavya Menon,Home Office,India,Telangana,South,PROD-TEC-11,Technology,Smartphones,Smartphones Item,387.24,1,0.05,63.48
+IN-2025-1005,2026-01-06,2026-01-11,CUST-281,Aarav Sharma,Home Office,India,Karnataka,South,PROD-TEC-20,Technology,Accessories,Accessories Item,2691.06,2,0.15,457.18
+IN-2025-1100,2026-01-06,2026-01-11,CUST-779,Sneha Kulkarni,Home Office,India,Madhya Pradesh,Central,PROD-TEC-94,Technology,Laptops,Laptops Item,6060.19,8,0.3,-1236.32
+IN-2025-1096,2026-01-07,2026-01-08,CUST-281,Aarav Sharma,Corporate,India,Bihar,East,PROD-FUR-25,Furniture,Tables,Tables Item,6894.06,8,0.0,1499.08
+IN-2025-1575,2026-01-07,2026-01-09,CUST-666,Rohan Mehta,Home Office,India,Rajasthan,West,PROD-FUR-25,Furniture,Chairs,Chairs Item,665.21,3,0.3,4.45
+IN-2025-1006,2026-01-09,2026-01-11,CUST-643,Ananya Iyer,Home Office,India,Bihar,East,PROD-FUR-87,Furniture,Chairs,Chairs Item,2379.69,4,0.05,519.9
+IN-2025-1347,2026-01-12,2026-01-17,CUST-557,Ishita Gupta,Consumer,India,Uttar Pradesh,Central,PROD-OFF-47,Office Supplies,Binders,Binders Item,234.13,2,0.05,26.49
+IN-2025-1059,2026-01-13,2026-01-17,CUST-355,Priya Nair,Corporate,India,Uttar Pradesh,Central,PROD-OFF-52,Office Supplies,Art,Art Item,726.6,8,0.1,152.33
+IN-2025-1198,2026-01-15,2026-01-18,CUST-557,Ishita Gupta,Consumer,India,Maharashtra,West,PROD-OFF-12,Office Supplies,Binders,Binders Item,503.86,7,0.1,122.89
+IN-2025-1105,2026-01-17,2026-01-19,CUST-557,Ishita Gupta,Home Office,India,Madhya Pradesh,Central,PROD-OFF-95,Office Supplies,Storage,Storage Item,202.08,6,0.3,-39.9
+IN-2025-1287,2026-01-20,2026-01-22,CUST-355,Priya Nair,Home Office,India,Delhi,North,PROD-OFF-13,Office Supplies,Appliances,Appliances Item,286.09,3,0.2,-10.0
+IN-2025-1127,2026-01-21,2026-01-23,CUST-436,Kavya Menon,Home Office,India,Tamil Nadu,South,PROD-OFF-66,Office Supplies,Binders,Binders Item,126.21,6,0.3,-16.93
+IN-2025-1169,2026-01-21,2026-01-24,CUST-577,Arjun Bansal,Home Office,India,Kerala,South,PROD-FUR-96,Furniture,Bookcases,Bookcases Item,2915.97,5,0.2,193.78
+IN-2025-1263,2026-01-21,2026-01-24,CUST-402,Karan Malhotra,Consumer,India,Punjab,North,PROD-FUR-17,Furniture,Furnishings,Furnishings Item,1846.78,3,0.3,-15.74
+IN-2025-1392,2026-01-22,2026-01-27,CUST-530,Rahul Joshi,Corporate,India,Gujarat,West,PROD-FUR-85,Furniture,Furnishings,Furnishings Item,6372.14,8,0.0,1901.68
+IN-2025-1049,2026-01-24,2026-01-27,CUST-436,Kavya Menon,Consumer,India,Rajasthan,West,PROD-FUR-79,Furniture,Chairs,Chairs Item,1077.67,6,0.05,192.82
+IN-2025-1082,2026-01-25,2026-01-28,CUST-557,Ishita Gupta,Consumer,India,Maharashtra,West,PROD-TEC-39,Technology,Accessories,Accessories Item,9941.05,7,0.0,1967.6
+IN-2025-1313,2026-01-26,2026-01-31,CUST-281,Aarav Sharma,Consumer,India,Assam,East,PROD-TEC-53,Technology,Smartphones,Smartphones Item,6944.79,8,0.05,1730.52
+IN-2025-1346,2026-01-26,2026-01-30,CUST-402,Karan Malhotra,Consumer,India,Rajasthan,West,PROD-TEC-35,Technology,Accessories,Accessories Item,9354.4,8,0.05,1158.98
+IN-2025-1567,2026-01-26,2026-01-29,CUST-281,Aarav Sharma,Corporate,India,Chhattisgarh,Central,PROD-OFF-73,Office Supplies,Storage,Storage Item,1129.62,8,0.05,350.34
+IN-2025-1393,2026-01-27,2026-01-29,CUST-489,Aditya Verma,Corporate,India,Telangana,South,PROD-OFF-11,Office Supplies,Art,Art Item,860.64,5,0.05,219.72
+IN-2025-1489,2026-01-28,2026-01-29,CUST-489,Aditya Verma,Consumer,India,Himachal Pradesh,North,PROD-OFF-85,Office Supplies,Art,Art Item,1054.58,8,0.2,103.97
+IN-2025-1387,2026-01-29,2026-02-02,CUST-402,Karan Malhotra,Corporate,India,Uttar Pradesh,Central,PROD-OFF-17,Office Supplies,Art,Art Item,498.78,3,0.3,-34.83
+IN-2025-1525,2026-01-29,2026-01-31,CUST-577,Arjun Bansal,Consumer,India,Assam,East,PROD-OFF-72,Office Supplies,Storage,Storage Item,221.3,8,0.3,3.82
+IN-2025-1132,2026-01-31,2026-02-01,CUST-281,Aarav Sharma,Corporate,India,Odisha,East,PROD-TEC-28,Technology,Accessories,Accessories Item,2152.2,5,0.15,153.91
+IN-2025-1285,2026-01-31,2026-02-04,CUST-577,Arjun Bansal,Corporate,India,Gujarat,West,PROD-FUR-54,Furniture,Furnishings,Furnishings Item,951.18,2,0.15,47.28
+IN-2025-1291,2026-02-01,2026-02-03,CUST-355,Priya Nair,Consumer,India,Assam,East,PROD-FUR-43,Furniture,Chairs,Chairs Item,2279.08,5,0.05,318.08
+IN-2025-1453,2026-02-01,2026-02-02,CUST-643,Ananya Iyer,Consumer,India,Chhattisgarh,Central,PROD-FUR-94,Furniture,Furnishings,Furnishings Item,1416.49,7,0.2,-74.59
+IN-2025-1194,2026-02-02,2026-02-04,CUST-355,Priya Nair,Home Office,India,Odisha,East,PROD-TEC-57,Technology,Printers,Printers Item,1754.78,4,0.0,519.95
+IN-2025-1275,2026-02-02,2026-02-05,CUST-355,Priya Nair,Home Office,India,Karnataka,South,PROD-TEC-45,Technology,Laptops,Laptops Item,2482.48,8,0.2,243.64
+IN-2025-1277,2026-02-02,2026-02-05,CUST-643,Ananya Iyer,Home Office,India,Tamil Nadu,South,PROD-FUR-85,Furniture,Bookcases,Bookcases Item,821.54,6,0.2,38.28
+IN-2025-1430,2026-02-02,2026-02-06,CUST-182,Neha Reddy,Home Office,India,Uttar Pradesh,Central,PROD-FUR-56,Furniture,Chairs,Chairs Item,631.08,2,0.0,103.47
+IN-2025-1254,2026-02-05,2026-02-10,CUST-182,Neha Reddy,Corporate,India,Haryana,North,PROD-OFF-17,Office Supplies,Binders,Binders Item,533.61,7,0.0,138.38
+IN-2025-1419,2026-02-06,2026-02-07,CUST-666,Rohan Mehta,Consumer,India,Chhattisgarh,Central,PROD-FUR-11,Furniture,Furnishings,Furnishings Item,821.0,4,0.15,44.19
+IN-2025-1239,2026-02-07,2026-02-11,CUST-322,Siddharth Das,Corporate,India,Telangana,South,PROD-FUR-19,Furniture,Furnishings,Furnishings Item,1062.88,2,0.15,121.14
+IN-2025-1227,2026-02-10,2026-02-11,CUST-779,Sneha Kulkarni,Home Office,India,Madhya Pradesh,Central,PROD-FUR-10,Furniture,Furnishings,Furnishings Item,2442.79,4,0.1,270.16
+IN-2025-1204,2026-02-11,2026-02-12,CUST-779,Sneha Kulkarni,Home Office,India,Assam,East,PROD-TEC-48,Technology,Smartphones,Smartphones Item,1856.49,2,0.3,-393.4
+IN-2025-1241,2026-02-12,2026-02-14,CUST-779,Sneha Kulkarni,Corporate,India,Gujarat,West,PROD-FUR-53,Furniture,Bookcases,Bookcases Item,1345.16,3,0.2,-34.44
+IN-2025-1463,2026-02-12,2026-02-15,CUST-666,Rohan Mehta,Corporate,India,Assam,East,PROD-FUR-98,Furniture,Chairs,Chairs Item,1371.2,3,0.15,54.88
+IN-2025-1394,2026-02-13,2026-02-16,CUST-779,Sneha Kulkarni,Corporate,India,Punjab,North,PROD-FUR-83,Furniture,Tables,Tables Item,1196.14,4,0.15,73.99
+IN-2025-1524,2026-02-15,2026-02-16,CUST-402,Karan Malhotra,Corporate,India,Haryana,North,PROD-TEC-47,Technology,Printers,Printers Item,3052.05,3,0.2,542.25
+IN-2025-1190,2026-02-16,2026-02-20,CUST-530,Rahul Joshi,Consumer,India,Tamil Nadu,South,PROD-TEC-39,Technology,Accessories,Accessories Item,7313.66,6,0.2,278.07
+IN-2025-1298,2026-02-17,2026-02-19,CUST-322,Siddharth Das,Home Office,India,Uttar Pradesh,Central,PROD-FUR-60,Furniture,Chairs,Chairs Item,3432.16,6,0.3,12.18
+IN-2025-1357,2026-02-19,2026-02-23,CUST-489,Aditya Verma,Home Office,India,West Bengal,East,PROD-TEC-92,Technology,Laptops,Laptops Item,1932.6,2,0.3,-185.31
+IN-2025-1156,2026-02-20,2026-02-23,CUST-182,Neha Reddy,Consumer,India,Maharashtra,West,PROD-TEC-63,Technology,Printers,Printers Item,3694.96,4,0.1,528.25
+IN-2025-1186,2026-02-23,2026-02-25,CUST-355,Priya Nair,Corporate,India,Kerala,South,PROD-FUR-58,Furniture,Furnishings,Furnishings Item,441.39,3,0.3,-76.97
+IN-2025-1081,2026-02-24,2026-02-26,CUST-530,Rahul Joshi,Corporate,India,Himachal Pradesh,North,PROD-FUR-93,Furniture,Furnishings,Furnishings Item,882.99,6,0.3,-153.73
+IN-2025-1414,2026-02-26,2026-03-03,CUST-643,Ananya Iyer,Consumer,India,Goa,West,PROD-OFF-58,Office Supplies,Appliances,Appliances Item,120.25,2,0.15,10.6
+IN-2025-1511,2026-02-27,2026-03-03,CUST-182,Neha Reddy,Home Office,India,Kerala,South,PROD-TEC-83,Technology,Smartphones,Smartphones Item,8409.25,6,0.0,1863.05
+IN-2025-1539,2026-02-27,2026-03-01,CUST-608,Diya Patel,Corporate,India,Gujarat,West,PROD-OFF-16,Office Supplies,Appliances,Appliances Item,640.72,3,0.05,77.18
+IN-2025-1479,2026-02-28,2026-03-01,CUST-557,Ishita Gupta,Home Office,India,Chhattisgarh,Central,PROD-OFF-81,Office Supplies,Storage,Storage Item,458.41,4,0.2,7.39
+IN-2025-1045,2026-03-01,2026-03-05,CUST-489,Aditya Verma,Consumer,India,Assam,East,PROD-TEC-59,Technology,Printers,Printers Item,1325.81,1,0.2,122.51
+IN-2025-1233,2026-03-02,2026-03-06,CUST-608,Diya Patel,Home Office,India,Gujarat,West,PROD-TEC-47,Technology,Smartphones,Smartphones Item,1116.94,4,0.2,128.82
+IN-2025-1343,2026-03-04,2026-03-09,CUST-530,Rahul Joshi,Consumer,India,Assam,East,PROD-OFF-13,Office Supplies,Paper,Paper Item,75.32,1,0.3,4.16
+IN-2025-1544,2026-03-04,2026-03-05,CUST-182,Neha Reddy,Home Office,India,Himachal Pradesh,North,PROD-TEC-77,Technology,Printers,Printers Item,1515.52,2,0.15,179.98
+IN-2025-1293,2026-03-05,2026-03-10,CUST-779,Sneha Kulkarni,Corporate,India,Gujarat,West,PROD-TEC-14,Technology,Printers,Printers Item,3159.46,3,0.0,505.99
+IN-2025-1507,2026-03-08,2026-03-11,CUST-666,Rohan Mehta,Consumer,India,Bihar,East,PROD-OFF-48,Office Supplies,Art,Art Item,936.02,5,0.0,209.8
+IN-2025-1596,2026-03-08,2026-03-11,CUST-557,Ishita Gupta,Consumer,India,Himachal Pradesh,North,PROD-FUR-83,Furniture,Furnishings,Furnishings Item,752.63,2,0.15,159.37
+IN-2025-1010,2026-03-09,2026-03-14,CUST-489,Aditya Verma,Home Office,India,Himachal Pradesh,North,PROD-FUR-80,Furniture,Bookcases,Bookcases Item,556.91,1,0.3,-74.9
+IN-2025-1106,2026-03-10,2026-03-11,CUST-355,Priya Nair,Consumer,India,Bihar,East,PROD-OFF-37,Office Supplies,Art,Art Item,422.47,8,0.05,58.06
+IN-2025-1111,2026-03-11,2026-03-15,CUST-489,Aditya Verma,Corporate,India,Chhattisgarh,Central,PROD-TEC-54,Technology,Laptops,Laptops Item,3307.05,5,0.3,-404.86
+IN-2025-1400,2026-03-11,2026-03-13,CUST-355,Priya Nair,Corporate,India,Rajasthan,West,PROD-FUR-33,Furniture,Furnishings,Furnishings Item,2314.23,4,0.0,476.35
+IN-2025-1383,2026-03-13,2026-03-18,CUST-436,Kavya Menon,Home Office,India,Bihar,East,PROD-FUR-88,Furniture,Bookcases,Bookcases Item,2371.86,7,0.05,542.67
+IN-2025-1530,2026-03-13,2026-03-16,CUST-608,Diya Patel,Home Office,India,Rajasthan,West,PROD-OFF-27,Office Supplies,Art,Art Item,375.86,4,0.0,86.97
+IN-2025-1029,2026-03-14,2026-03-19,CUST-608,Diya Patel,Home Office,India,Delhi,North,PROD-TEC-57,Technology,Laptops,Laptops Item,2993.1,3,0.15,614.5
+IN-2025-1065,2026-03-16,2026-03-19,CUST-281,Aarav Sharma,Home Office,India,Uttar Pradesh,Central,PROD-OFF-36,Office Supplies,Paper,Paper Item,573.54,5,0.3,27.66
+IN-2025-1038,2026-03-17,2026-03-22,CUST-355,Priya Nair,Corporate,India,Uttar Pradesh,Central,PROD-FUR-96,Furniture,Furnishings,Furnishings Item,1737.55,8,0.3,39.87
+IN-2025-1103,2026-03-17,2026-03-18,CUST-489,Aditya Verma,Corporate,India,Punjab,North,PROD-TEC-53,Technology,Printers,Printers Item,9169.72,7,0.15,583.39
+IN-2025-1591,2026-03-18,2026-03-20,CUST-779,Sneha Kulkarni,Consumer,India,Assam,East,PROD-OFF-94,Office Supplies,Appliances,Appliances Item,1002.12,8,0.15,103.22
+IN-2025-1206,2026-03-21,2026-03-24,CUST-577,Arjun Bansal,Home Office,India,Madhya Pradesh,Central,PROD-TEC-37,Technology,Smartphones,Smartphones Item,11893.75,8,0.1,3180.76
+IN-2025-1215,2026-03-22,2026-03-25,CUST-779,Sneha Kulkarni,Consumer,India,Rajasthan,West,PROD-FUR-41,Furniture,Bookcases,Bookcases Item,2210.16,8,0.6,-2210.16
+IN-2025-1071,2026-03-23,2026-03-27,CUST-355,Priya Nair,Corporate,India,Himachal Pradesh,North,PROD-FUR-95,Furniture,Bookcases,Bookcases Item,616.81,3,0.1,114.91
+IN-2025-1460,2026-03-26,2026-03-31,CUST-436,Kavya Menon,Corporate,India,Rajasthan,West,PROD-TEC-61,Technology,Printers,Printers Item,7175.18,7,0.3,-128.94
+IN-2025-1119,2026-03-27,2026-03-28,CUST-322,Siddharth Das,Corporate,India,Goa,West,PROD-FUR-55,Furniture,Chairs,Chairs Item,2254.64,5,0.15,290.76
+IN-2025-1521,2026-03-29,2026-04-01,CUST-608,Diya Patel,Consumer,India,Delhi,North,PROD-OFF-67,Office Supplies,Storage,Storage Item,184.8,8,0.05,32.96
+IN-2025-1300,2026-03-30,2026-04-02,CUST-557,Ishita Gupta,Home Office,India,Assam,East,PROD-TEC-66,Technology,Smartphones,Smartphones Item,3023.72,7,0.3,-202.56
+IN-2025-1420,2026-03-30,2026-04-01,CUST-779,Sneha Kulkarni,Home Office,India,Punjab,North,PROD-TEC-70,Technology,Smartphones,Smartphones Item,3976.58,5,0.1,964.44
+IN-2025-1128,2026-03-31,2026-04-05,CUST-643,Ananya Iyer,Home Office,India,Assam,East,PROD-TEC-70,Technology,Accessories,Accessories Item,5961.46,4,0.1,757.36
+IN-2025-1321,2026-03-31,2026-04-04,CUST-779,Sneha Kulkarni,Home Office,India,Haryana,North,PROD-TEC-98,Technology,Smartphones,Smartphones Item,1195.75,1,0.1,220.32
+IN-2025-1496,2026-04-01,2026-04-03,CUST-608,Diya Patel,Home Office,India,Assam,East,PROD-TEC-51,Technology,Printers,Printers Item,1041.44,1,0.0,319.18
+IN-2025-1184,2026-04-02,2026-04-03,CUST-402,Karan Malhotra,Corporate,India,Gujarat,West,PROD-FUR-81,Furniture,Chairs,Chairs Item,1738.74,5,0.3,113.38
+IN-2025-1352,2026-04-02,2026-04-04,CUST-643,Ananya Iyer,Consumer,India,Uttar Pradesh,Central,PROD-OFF-58,Office Supplies,Storage,Storage Item,392.13,2,0.15,68.59
+IN-2025-1564,2026-04-02,2026-04-07,CUST-182,Neha Reddy,Corporate,India,Punjab,North,PROD-OFF-66,Office Supplies,Appliances,Appliances Item,423.29,7,0.3,-78.18
+IN-2025-1294,2026-04-05,2026-04-07,CUST-530,Rahul Joshi,Consumer,India,Tamil Nadu,South,PROD-TEC-64,Technology,Laptops,Laptops Item,2776.73,7,0.05,293.89
+IN-2025-1232,2026-04-07,2026-04-12,CUST-281,Aarav Sharma,Corporate,India,Haryana,North,PROD-TEC-59,Technology,Smartphones,Smartphones Item,11871.06,8,0.15,880.71
+IN-2025-1015,2026-04-08,2026-04-09,CUST-608,Diya Patel,Corporate,India,Tamil Nadu,South,PROD-TEC-85,Technology,Smartphones,Smartphones Item,882.46,2,0.3,-96.08
+IN-2025-1464,2026-04-08,2026-04-09,CUST-666,Rohan Mehta,Home Office,India,Madhya Pradesh,Central,PROD-OFF-27,Office Supplies,Art,Art Item,563.07,6,0.15,129.19
+IN-2025-1336,2026-04-09,2026-04-10,CUST-281,Aarav Sharma,Corporate,India,Punjab,North,PROD-FUR-80,Furniture,Bookcases,Bookcases Item,1082.98,2,0.0,184.78
+IN-2025-1465,2026-04-10,2026-04-15,CUST-608,Diya Patel,Corporate,India,Kerala,South,PROD-FUR-25,Furniture,Tables,Tables Item,1223.0,8,0.3,-39.47
+IN-2025-1021,2026-04-11,2026-04-14,CUST-666,Rohan Mehta,Consumer,India,Goa,West,PROD-FUR-17,Furniture,Tables,Tables Item,409.07,1,0.3,-7.43
+IN-2025-1540,2026-04-11,2026-04-13,CUST-666,Rohan Mehta,Corporate,India,Rajasthan,West,PROD-OFF-90,Office Supplies,Binders,Binders Item,486.76,5,0.05,119.29
+IN-2025-1318,2026-04-12,2026-04-17,CUST-355,Priya Nair,Corporate,India,Uttar Pradesh,Central,PROD-OFF-53,Office Supplies,Binders,Binders Item,1793.61,8,0.1,199.25
+IN-2025-1335,2026-04-13,2026-04-16,CUST-436,Kavya Menon,Consumer,India,West Bengal,East,PROD-FUR-81,Furniture,Bookcases,Bookcases Item,4063.15,8,0.3,-472.68
+IN-2025-1216,2026-04-14,2026-04-15,CUST-281,Aarav Sharma,Corporate,India,Telangana,South,PROD-FUR-52,Furniture,Furnishings,Furnishings Item,2352.82,7,0.3,-486.85
+IN-2025-1234,2026-04-14,2026-04-19,CUST-557,Ishita Gupta,Consumer,India,Maharashtra,West,PROD-FUR-79,Furniture,Bookcases,Bookcases Item,536.87,1,0.3,-29.35
+IN-2025-1515,2026-04-18,2026-04-20,CUST-402,Karan Malhotra,Corporate,India,Madhya Pradesh,Central,PROD-OFF-50,Office Supplies,Binders,Binders Item,145.95,1,0.0,50.73
+IN-2025-1543,2026-04-19,2026-04-22,CUST-182,Neha Reddy,Consumer,India,Himachal Pradesh,North,PROD-TEC-65,Technology,Accessories,Accessories Item,2806.08,3,0.2,-104.0
+IN-2025-1223,2026-04-20,2026-04-25,CUST-355,Priya Nair,Consumer,India,Madhya Pradesh,Central,PROD-FUR-47,Furniture,Chairs,Chairs Item,923.96,2,0.0,169.76
+IN-2025-1042,2026-04-21,2026-04-26,CUST-355,Priya Nair,Corporate,India,Uttar Pradesh,Central,PROD-OFF-64,Office Supplies,Art,Art Item,1603.83,8,0.05,255.37
+IN-2025-1051,2026-04-22,2026-04-25,CUST-557,Ishita Gupta,Home Office,India,Odisha,East,PROD-OFF-30,Office Supplies,Paper,Paper Item,387.02,2,0.2,70.08
+IN-2025-1491,2026-04-22,2026-04-26,CUST-666,Rohan Mehta,Home Office,India,Tamil Nadu,South,PROD-FUR-60,Furniture,Bookcases,Bookcases Item,1552.58,6,0.1,274.88
+IN-2025-1018,2026-04-24,2026-04-25,CUST-489,Aditya Verma,Home Office,India,Delhi,North,PROD-FUR-41,Furniture,Chairs,Chairs Item,2232.06,8,0.05,506.61
+IN-2025-1182,2026-04-28,2026-05-03,CUST-322,Siddharth Das,Home Office,India,Tamil Nadu,South,PROD-TEC-77,Technology,Printers,Printers Item,2169.04,2,0.2,345.85
+IN-2025-1164,2026-05-01,2026-05-06,CUST-557,Ishita Gupta,Home Office,India,Gujarat,West,PROD-TEC-88,Technology,Accessories,Accessories Item,4355.65,7,0.2,11.63
+IN-2025-1043,2026-05-02,2026-05-06,CUST-436,Kavya Menon,Home Office,India,Odisha,East,PROD-FUR-90,Furniture,Furnishings,Furnishings Item,2635.48,8,0.0,546.32
+IN-2025-1299,2026-05-02,2026-05-05,CUST-355,Priya Nair,Corporate,India,West Bengal,East,PROD-FUR-72,Furniture,Bookcases,Bookcases Item,1507.98,2,0.05,433.54
+IN-2025-1423,2026-05-02,2026-05-07,CUST-530,Rahul Joshi,Consumer,India,Telangana,South,PROD-TEC-73,Technology,Smartphones,Smartphones Item,1835.83,6,0.3,99.63
+IN-2025-1570,2026-05-03,2026-05-04,CUST-436,Kavya Menon,Corporate,India,West Bengal,East,PROD-TEC-28,Technology,Laptops,Laptops Item,2104.71,3,0.1,508.26
+IN-2025-1179,2026-05-04,2026-05-07,CUST-936,Vikram Rao,Corporate,India,Karnataka,South,PROD-TEC-44,Technology,Printers,Printers Item,6924.21,5,0.2,46.94
+IN-2025-1328,2026-05-05,2026-05-09,CUST-666,Rohan Mehta,Home Office,India,Karnataka,South,PROD-OFF-30,Office Supplies,Paper,Paper Item,280.67,8,0.2,5.03
+IN-2025-1150,2026-05-06,2026-05-11,CUST-436,Kavya Menon,Home Office,India,Goa,West,PROD-TEC-50,Technology,Smartphones,Smartphones Item,8591.85,8,0.15,646.69
+IN-2025-1374,2026-05-06,2026-05-08,CUST-322,Siddharth Das,Corporate,India,Madhya Pradesh,Central,PROD-TEC-15,Technology,Smartphones,Smartphones Item,1401.71,3,0.05,256.87
+IN-2025-1365,2026-05-07,2026-05-11,CUST-530,Rahul Joshi,Corporate,India,Rajasthan,West,PROD-FUR-32,Furniture,Chairs,Chairs Item,1141.49,2,0.1,99.25
+IN-2025-1324,2026-05-08,2026-05-11,CUST-281,Aarav Sharma,Home Office,India,Karnataka,South,PROD-TEC-83,Technology,Laptops,Laptops Item,3910.6,3,0.0,759.03
+IN-2025-1087,2026-05-10,2026-05-11,CUST-557,Ishita Gupta,Corporate,India,Kerala,South,PROD-OFF-99,Office Supplies,Storage,Storage Item,553.79,7,0.1,152.83
+IN-2025-1483,2026-05-10,2026-05-15,CUST-355,Priya Nair,Corporate,India,Tamil Nadu,South,PROD-OFF-49,Office Supplies,Art,Art Item,595.12,3,0.0,110.44
+IN-2025-1047,2026-05-13,2026-05-14,CUST-322,Siddharth Das,Home Office,India,Rajasthan,West,PROD-FUR-69,Furniture,Tables,Tables Item,713.71,1,0.15,68.54
+IN-2025-1112,2026-05-14,2026-05-19,CUST-643,Ananya Iyer,Corporate,India,West Bengal,East,PROD-OFF-10,Office Supplies,Paper,Paper Item,254.67,4,0.05,39.46
+IN-2025-1502,2026-05-14,2026-05-18,CUST-666,Rohan Mehta,Home Office,India,Karnataka,South,PROD-FUR-99,Furniture,Furnishings,Furnishings Item,3378.6,7,0.2,481.62
+IN-2025-1054,2026-05-17,2026-05-18,CUST-322,Siddharth Das,Corporate,India,Rajasthan,West,PROD-OFF-65,Office Supplies,Binders,Binders Item,242.05,5,0.2,-3.52
+IN-2025-1078,2026-05-17,2026-05-19,CUST-355,Priya Nair,Corporate,India,Goa,West,PROD-OFF-58,Office Supplies,Art,Art Item,710.96,6,0.05,77.72
+IN-2025-1147,2026-05-18,2026-05-20,CUST-436,Kavya Menon,Consumer,India,Punjab,North,PROD-FUR-66,Furniture,Tables,Tables Item,3771.38,6,0.3,-104.98
+IN-2025-1200,2026-05-18,2026-05-22,CUST-666,Rohan Mehta,Consumer,India,Telangana,South,PROD-OFF-72,Office Supplies,Art,Art Item,49.86,1,0.2,8.92
+IN-2025-1337,2026-05-20,2026-05-22,CUST-936,Vikram Rao,Home Office,India,Maharashtra,West,PROD-TEC-25,Technology,Smartphones,Smartphones Item,11273.91,7,0.05,2475.41
+IN-2025-1396,2026-05-20,2026-05-25,CUST-436,Kavya Menon,Corporate,India,Delhi,North,PROD-FUR-73,Furniture,Bookcases,Bookcases Item,3500.26,5,0.15,672.98
+IN-2025-1072,2026-05-23,2026-05-26,CUST-779,Sneha Kulkarni,Consumer,India,Maharashtra,West,PROD-FUR-51,Furniture,Bookcases,Bookcases Item,1326.87,7,0.2,-24.86
+IN-2025-1283,2026-05-24,2026-05-26,CUST-643,Ananya Iyer,Corporate,India,West Bengal,East,PROD-FUR-91,Furniture,Tables,Tables Item,1139.59,2,0.3,-136.75
+IN-2025-1553,2026-05-24,2026-05-26,CUST-936,Vikram Rao,Corporate,India,Karnataka,South,PROD-OFF-26,Office Supplies,Art,Art Item,767.54,7,0.15,47.37
+IN-2025-1085,2026-05-25,2026-05-30,CUST-779,Sneha Kulkarni,Home Office,India,Tamil Nadu,South,PROD-FUR-42,Furniture,Furnishings,Furnishings Item,4680.94,8,0.1,
+IN-2025-1334,2026-05-25,2026-05-26,CUST-489,Aditya Verma,Consumer,India,Himachal Pradesh,North,PROD-OFF-10,Office Supplies,Art,Art Item,839.84,5,0.2,39.41
+IN-2025-1475,2026-05-25,2026-05-29,CUST-182,Neha Reddy,Corporate,India,Tamil Nadu,South,PROD-TEC-25,Technology,Laptops,Laptops Item,470.37,2,0.3,-80.38
+IN-2025-1589,2026-05-25,2026-05-29,CUST-402,Karan Malhotra,Corporate,India,Chhattisgarh,Central,PROD-OFF-12,Office Supplies,Art,Art Item,203.23,1,0.15,5.73
+IN-2025-1209,2026-05-28,2026-05-31,CUST-489,Aditya Verma,Consumer,India,Delhi,North,PROD-TEC-87,Technology,Accessories,Accessories Item,9157.1,7,0.1,2483.35
+IN-2025-1504,2026-05-29,2026-06-01,CUST-281,Aarav Sharma,Consumer,India,Rajasthan,West,PROD-OFF-57,Office Supplies,Appliances,Appliances Item,257.76,8,0.3,12.52
+IN-2025-1551,2026-05-29,2026-06-03,CUST-182,Neha Reddy,Home Office,India,Himachal Pradesh,North,PROD-OFF-47,Office Supplies,Art,Art Item,520.61,6,0.3,-103.43
+IN-2025-1260,2026-05-30,2026-05-31,CUST-530,Rahul Joshi,Home Office,India,Tamil Nadu,South,PROD-TEC-18,Technology,Printers,Printers Item,7269.69,5,0.1,1490.61
+IN-2025-1574,2026-05-31,2026-06-02,CUST-489,Aditya Verma,Corporate,India,Karnataka,South,PROD-TEC-26,Technology,Laptops,Laptops Item,12132.83,8,0.1,2530.17
+IN-2025-1339,2026-06-01,2026-06-03,CUST-402,Karan Malhotra,Home Office,India,Maharashtra,West,PROD-TEC-84,Technology,Printers,Printers Item,2151.24,3,0.3,-201.94
+IN-2025-1391,2026-06-03,2026-06-04,CUST-402,Karan Malhotra,Corporate,India,Madhya Pradesh,Central,PROD-FUR-75,Furniture,Chairs,Chairs Item,3036.36,5,0.3,-167.24
+IN-2025-1012,2026-06-04,2026-06-05,CUST-666,Rohan Mehta,Corporate,India,Odisha,East,PROD-TEC-86,Technology,Laptops,Laptops Item,786.23,1,0.0,129.08
+IN-2025-1077,2026-06-05,2026-06-07,CUST-530,Rahul Joshi,Corporate,India,Haryana,North,PROD-FUR-10,Furniture,Bookcases,Bookcases Item,1448.52,5,0.2,61.59
+IN-2025-1503,2026-06-06,2026-06-10,CUST-489,Aditya Verma,Corporate,India,Chhattisgarh,Central,PROD-TEC-64,Technology,Smartphones,Smartphones Item,6758.42,8,0.3,25.59
+IN-2025-1368,2026-06-07,2026-06-08,CUST-402,Karan Malhotra,Consumer,India,Rajasthan,West,PROD-OFF-88,Office Supplies,Binders,Binders Item,452.26,3,0.15,89.47
+IN-2025-1405,2026-06-07,2026-06-11,CUST-489,Aditya Verma,Home Office,India,Maharashtra,West,PROD-FUR-90,Furniture,Furnishings,Furnishings Item,1821.64,3,0.3,-290.27
+IN-2025-1035,2026-06-08,2026-06-09,CUST-936,Vikram Rao,Consumer,India,Gujarat,West,PROD-OFF-10,Office Supplies,Appliances,Appliances Item,502.49,4,0.1,91.42
+IN-2025-1307,2026-06-08,2026-06-11,CUST-557,Ishita Gupta,Home Office,India,Uttar Pradesh,Central,PROD-FUR-97,Furniture,Bookcases,Bookcases Item,415.94,2,0.1,24.18
+IN-2025-1397,2026-06-08,2026-06-11,CUST-530,Rahul Joshi,Home Office,India,Gujarat,West,PROD-TEC-77,Technology,Laptops,Laptops Item,9592.99,8,0.2,1720.59
+IN-2025-1563,2026-06-08,2026-06-09,CUST-666,Rohan Mehta,Home Office,India,Assam,East,PROD-FUR-59,Furniture,Bookcases,Bookcases Item,1933.31,5,0.1,386.08
+IN-2025-1131,2026-06-10,2026-06-12,CUST-577,Arjun Bansal,Consumer,India,Maharashtra,West,PROD-FUR-13,Furniture,Bookcases,Bookcases Item,2582.57,7,0.2,242.79
+IN-2025-1305,2026-06-10,2026-06-11,CUST-577,Arjun Bansal,Consumer,India,Himachal Pradesh,North,PROD-OFF-86,Office Supplies,Binders,Binders Item,735.12,4,0.1,104.82
+IN-2025-1348,2026-06-11,2026-06-12,CUST-489,Aditya Verma,Corporate,India,Maharashtra,West,PROD-OFF-26,Office Supplies,Storage,Storage Item,285.07,5,0.0,80.93
+IN-2025-1135,2026-06-12,2026-06-17,CUST-936,Vikram Rao,Corporate,India,Tamil Nadu,South,PROD-TEC-40,Technology,Accessories,Accessories Item,2427.59,3,0.3,-290.07
+IN-2025-1301,2026-06-13,2026-06-16,CUST-608,Diya Patel,Corporate,India,Punjab,North,PROD-OFF-61,Office Supplies,Art,Art Item,48.64,1,0.05,13.39
+IN-2025-1484,2026-06-13,2026-06-15,CUST-779,Sneha Kulkarni,Corporate,India,Karnataka,South,PROD-OFF-24,Office Supplies,Art,Art Item,14.66,1,0.3,-2.51
+IN-2025-1402,2026-06-14,2026-06-19,CUST-936,Vikram Rao,Corporate,India,Assam,East,PROD-OFF-16,Office Supplies,Art,Art Item,334.9,3,0.0,102.78
+IN-2025-1415,2026-06-14,2026-06-19,CUST-322,Siddharth Das,Home Office,India,Bihar,East,PROD-OFF-62,Office Supplies,Storage,Storage Item,120.16,2,0.05,34.49
+IN-2025-1146,2026-06-15,2026-06-19,CUST-936,Vikram Rao,Corporate,India,Madhya Pradesh,Central,PROD-OFF-37,Office Supplies,Appliances,Appliances Item,872.07,5,0.3,-166.07
+IN-2025-1141,2026-06-16,2026-06-19,CUST-608,Diya Patel,Corporate,India,Himachal Pradesh,North,PROD-OFF-79,Office Supplies,Binders,Binders Item,175.13,2,0.0,49.81
+IN-2025-1582,2026-06-17,2026-06-19,CUST-182,Neha Reddy,Corporate,India,Rajasthan,West,PROD-OFF-20,Office Supplies,Paper,Paper Item,162.29,2,0.15,27.35
+IN-2025-1380,2026-06-19,2026-06-23,CUST-182,Neha Reddy,Home Office,India,West Bengal,East,PROD-FUR-71,Furniture,Tables,Tables Item,4675.65,7,0.1,686.75
+IN-2025-1136,2026-06-21,2026-06-24,CUST-489,Aditya Verma,Corporate,India,Delhi,North,PROD-TEC-57,Technology,Printers,Printers Item,612.43,1,0.1,62.81
+IN-2025-1466,2026-06-21,2026-06-25,CUST-666,Rohan Mehta,Corporate,India,Uttar Pradesh,Central,PROD-OFF-15,Office Supplies,Appliances,Appliances Item,944.16,6,0.2,-28.63
+IN-2025-1061,2026-06-22,2026-06-27,CUST-436,Kavya Menon,Consumer,India,West Bengal,East,PROD-FUR-56,Furniture,Tables,Tables Item,199.21,1,0.3,-16.17
+IN-2025-1274,2026-06-23,2026-06-25,CUST-489,Aditya Verma,Home Office,India,Madhya Pradesh,Central,PROD-FUR-79,Furniture,Furnishings,Furnishings Item,3533.17,6,0.2,218.71
+IN-2025-1125,2026-06-24,2026-06-25,CUST-281,Aarav Sharma,Corporate,India,Rajasthan,West,PROD-FUR-37,Furniture,Tables,Tables Item,3087.87,8,0.05,827.84
+IN-2025-1449,2026-06-24,2026-06-25,CUST-281,Aarav Sharma,Corporate,India,Odisha,East,PROD-TEC-16,Technology,Accessories,Accessories Item,997.44,1,0.0,271.57
+IN-2025-1505,2026-06-24,2026-06-27,CUST-402,Karan Malhotra,Home Office,India,Maharashtra,West,PROD-TEC-70,Technology,Smartphones,Smartphones Item,1744.39,2,0.3,-191.23
+IN-2025-1535,2026-06-27,2026-06-28,CUST-436,Kavya Menon,Home Office,India,Chhattisgarh,Central,PROD-OFF-69,Office Supplies,Binders,Binders Item,709.83,4,0.1,188.8
+IN-2025-1555,2026-06-27,2026-07-02,CUST-936,Vikram Rao,Home Office,India,Goa,West,PROD-TEC-31,Technology,Accessories,Accessories Item,5045.27,4,0.15,745.63
+IN-2025-1084,2026-06-28,2026-07-02,CUST-530,Rahul Joshi,Consumer,India,Uttar Pradesh,Central,PROD-TEC-20,Technology,Smartphones,Smartphones Item,6799.73,7,0.2,113.67
+IN-2025-1173,2026-06-28,2026-06-30,CUST-608,Diya Patel,Corporate,India,Karnataka,South,PROD-FUR-22,Furniture,Furnishings,Furnishings Item,1982.68,3,0.0,311.47
+IN-2025-1513,2026-06-28,2026-07-02,CUST-577,Arjun Bansal,Corporate,India,Haryana,North,PROD-FUR-77,Furniture,Bookcases,Bookcases Item,662.16,1,0.0,110.22
+IN-2025-1599,2026-06-28,2026-07-02,CUST-355,Priya Nair,Consumer,India,Gujarat,West,PROD-OFF-74,Office Supplies,Storage,Storage Item,1004.25,7,0.3,-83.2
+IN-2025-1433,2026-06-29,2026-07-03,CUST-402,Karan Malhotra,Home Office,India,Tamil Nadu,South,PROD-TEC-81,Technology,Smartphones,Smartphones Item,6976.58,7,0.3,288.01
+IN-2025-1197,2026-07-01,2026-07-04,CUST-355,Priya Nair,Home Office,India,Bihar,East,PROD-FUR-22,Furniture,Furnishings,Furnishings Item,5415.21,8,0.1,403.94
+IN-2025-1316,2026-07-01,2026-07-03,CUST-577,Arjun Bansal,Corporate,India,West Bengal,East,PROD-OFF-12,Office Supplies,Binders,Binders Item,667.48,4,0.05,113.33
+IN-2025-1175,2026-07-02,2026-07-03,CUST-577,Arjun Bansal,Consumer,India,Kerala,South,PROD-TEC-73,Technology,Printers,Printers Item,2897.34,5,0.0,1008.7
+IN-2025-1413,2026-07-02,2026-07-03,CUST-936,Vikram Rao,Consumer,India,Goa,West,PROD-FUR-86,Furniture,Bookcases,Bookcases Item,258.73,1,0.2,24.34
+IN-2025-1011,2026-07-04,2026-07-07,CUST-936,Vikram Rao,Corporate,India,West Bengal,East,PROD-TEC-10,Technology,Printers,Printers Item,6922.9,5,0.2,-20.7
+IN-2025-1193,2026-07-05,2026-07-09,CUST-936,Vikram Rao,Home Office,India,Tamil Nadu,South,PROD-TEC-17,Technology,Printers,Printers Item,6404.04,7,0.2,352.23
+IN-2025-1448,2026-07-05,2026-07-07,CUST-402,Karan Malhotra,Corporate,India,Telangana,South,PROD-OFF-98,Office Supplies,Binders,Binders Item,153.61,1,0.15,15.07
+IN-2025-1055,2026-07-06,2026-07-10,CUST-436,Kavya Menon,Home Office,India,Goa,West,PROD-OFF-51,Office Supplies,Storage,Storage Item,388.61,2,0.1,31.81
+IN-2025-1411,2026-07-07,2026-07-09,CUST-779,Sneha Kulkarni,Home Office,India,Uttar Pradesh,Central,PROD-OFF-65,Office Supplies,Art,Art Item,631.78,5,0.1,107.87
+IN-2025-1427,2026-07-09,2026-07-12,CUST-530,Rahul Joshi,Home Office,India,Maharashtra,West,PROD-OFF-33,Office Supplies,Appliances,Appliances Item,1070.76,6,0.2,136.85
+IN-2025-1026,2026-07-11,2026-07-14,CUST-402,Karan Malhotra,Consumer,India,Uttar Pradesh,Central,PROD-OFF-48,Office Supplies,Art,Art Item,445.18,2,0.05,115.8
+IN-2025-1139,2026-07-11,2026-07-15,CUST-530,Rahul Joshi,Home Office,India,West Bengal,East,PROD-TEC-55,Technology,Accessories,Accessories Item,1115.25,1,0.3,-26.1
+IN-2025-1426,2026-07-11,2026-07-14,CUST-936,Vikram Rao,Home Office,India,Assam,East,PROD-OFF-18,Office Supplies,Binders,Binders Item,1023.56,8,0.1,97.94
+IN-2025-1188,2026-07-12,2026-07-16,CUST-436,Kavya Menon,Consumer,India,Chhattisgarh,Central,PROD-TEC-54,Technology,Printers,Printers Item,1491.51,4,0.3,-219.67
+IN-2025-1371,2026-07-12,2026-07-17,CUST-322,Siddharth Das,Corporate,India,Kerala,South,PROD-FUR-76,Furniture,Chairs,Chairs Item,1083.81,4,0.2,93.25
+IN-2025-1495,2026-07-12,2026-07-14,CUST-182,Neha Reddy,Home Office,India,Karnataka,South,PROD-OFF-24,Office Supplies,Appliances,Appliances Item,1124.62,8,0.1,173.67
+IN-2025-1436,2026-07-13,2026-07-15,CUST-355,Priya Nair,Corporate,India,Rajasthan,West,PROD-FUR-10,Furniture,Furnishings,Furnishings Item,2778.94,5,0.2,509.73
+IN-2025-1183,2026-07-15,2026-07-20,CUST-666,Rohan Mehta,Corporate,India,Tamil Nadu,South,PROD-OFF-24,Office Supplies,Appliances,Appliances Item,1411.74,8,0.0,240.31
+IN-2025-1014,2026-07-17,2026-07-19,CUST-643,Ananya Iyer,Home Office,India,Assam,East,PROD-OFF-49,Office Supplies,Binders,Binders Item,570.02,6,0.15,13.47
+IN-2025-1074,2026-07-17,2026-07-19,CUST-577,Arjun Bansal,Home Office,India,Assam,East,PROD-FUR-13,Furniture,Chairs,Chairs Item,2463.61,4,0.3,64.49
+IN-2025-1362,2026-07-17,2026-07-18,CUST-936,Vikram Rao,Consumer,India,West Bengal,East,PROD-TEC-52,Technology,Printers,Printers Item,3342.83,4,0.0,979.36
+IN-2025-1333,2026-07-18,2026-07-22,CUST-608,Diya Patel,Corporate,India,Gujarat,West,PROD-FUR-21,Furniture,Furnishings,Furnishings Item,5705.58,8,0.1,1434.37
+IN-2025-1075,2026-07-19,2026-07-20,CUST-608,Diya Patel,Consumer,India,Chhattisgarh,Central,PROD-TEC-25,Technology,Printers,Printers Item,3242.49,3,0.15,51.38
+IN-2025-1153,2026-07-19,2026-07-22,CUST-557,Ishita Gupta,Home Office,India,Telangana,South,PROD-TEC-85,Technology,Smartphones,Smartphones Item,4880.37,3,0.05,864.36
+IN-2025-1261,2026-07-21,2026-07-25,CUST-643,Ananya Iyer,Corporate,India,Haryana,North,PROD-OFF-89,Office Supplies,Storage,Storage Item,363.81,6,0.2,-20.18
+IN-2025-1360,2026-07-23,2026-07-25,CUST-281,Aarav Sharma,Home Office,India,Delhi,North,PROD-OFF-78,Office Supplies,Appliances,Appliances Item,262.68,2,0.1,60.71
+IN-2025-1192,2026-07-24,2026-07-28,CUST-322,Siddharth Das,Home Office,India,Haryana,North,PROD-FUR-99,Furniture,Bookcases,Bookcases Item,1248.06,3,0.1,242.28
+IN-2025-1384,2026-07-25,2026-07-29,CUST-402,Karan Malhotra,Home Office,India,Telangana,South,PROD-FUR-49,Furniture,Bookcases,Bookcases Item,2857.87,7,0.3,91.4
+IN-2025-1311,2026-07-27,2026-07-29,CUST-643,Ananya Iyer,Corporate,India,West Bengal,East,PROD-TEC-63,Technology,Accessories,Accessories Item,8003.53,6,0.1,1759.78
+IN-2025-1549,2026-07-27,2026-07-28,CUST-530,Rahul Joshi,Consumer,India,Uttar Pradesh,Central,PROD-TEC-40,Technology,Accessories,Accessories Item,6212.92,8,0.3,-1223.33
+IN-2025-1093,2026-07-29,2026-08-01,CUST-322,Siddharth Das,Consumer,India,Madhya Pradesh,Central,PROD-OFF-99,Office Supplies,Appliances,Appliances Item,626.53,7,0.0,201.77
+IN-2025-1025,2026-07-31,2026-08-01,CUST-402,Karan Malhotra,Corporate,India,Punjab,North,PROD-TEC-18,Technology,Accessories,Accessories Item,8742.09,6,0.1,2121.91
+IN-2025-1064,2026-07-31,2026-08-03,CUST-608,Diya Patel,Home Office,India,Punjab,North,PROD-FUR-76,Furniture,Tables,Tables Item,3134.04,8,0.1,271.5
+IN-2025-1222,2026-07-31,2026-08-04,CUST-608,Diya Patel,Consumer,India,Assam,East,PROD-TEC-38,Technology,Accessories,Accessories Item,3624.45,4,0.15,533.76
+IN-2025-1278,2026-07-31,2026-08-02,CUST-666,Rohan Mehta,Corporate,India,Rajasthan,West,PROD-TEC-17,Technology,Laptops,Laptops Item,2595.74,4,0.0,635.2
+IN-2025-1292,2026-08-01,2026-08-02,CUST-608,Diya Patel,Home Office,India,Karnataka,South,PROD-FUR-85,Furniture,Furnishings,Furnishings Item,272.54,1,0.15,11.65
+IN-2025-1369,2026-08-03,2026-08-08,CUST-355,Priya Nair,Consumer,India,Kerala,South,PROD-TEC-39,Technology,Printers,Printers Item,2247.46,6,0.05,689.47
+IN-2025-1008,2026-08-04,2026-08-07,CUST-489,Aditya Verma,Home Office,India,Kerala,South,PROD-FUR-43,Furniture,Tables,Tables Item,891.53,5,0.3,-85.23
+IN-2025-1176,2026-08-05,2026-08-10,CUST-936,Vikram Rao,Corporate,India,Haryana,North,PROD-OFF-77,Office Supplies,Art,Art Item,320.64,3,0.2,22.6
+IN-2025-1023,2026-08-07,2026-08-09,CUST-281,Aarav Sharma,Home Office,India,Uttar Pradesh,Central,PROD-TEC-94,Technology,Printers,Printers Item,6347.75,6,0.1,1475.14
+IN-2025-1237,2026-08-07,2026-08-10,CUST-557,Ishita Gupta,Home Office,India,Chhattisgarh,Central,PROD-TEC-47,Technology,Accessories,Accessories Item,2936.0,5,0.2,-172.85
+IN-2025-1017,2026-08-08,2026-08-13,CUST-530,Rahul Joshi,Corporate,India,Gujarat,West,PROD-FUR-22,Furniture,Tables,Tables Item,1403.0,7,0.1,257.66
+IN-2025-1129,2026-08-08,2026-08-12,CUST-530,Rahul Joshi,Corporate,India,Rajasthan,West,PROD-OFF-63,Office Supplies,Art,Art Item,775.17,4,0.2,118.52
+IN-2025-1121,2026-08-09,2026-08-11,CUST-402,Karan Malhotra,Consumer,India,Assam,East,PROD-TEC-23,Technology,Printers,Printers Item,6369.09,6,0.3,301.48
+IN-2025-1155,2026-08-09,2026-08-13,CUST-281,Aarav Sharma,Corporate,India,Uttar Pradesh,Central,PROD-OFF-47,Office Supplies,Art,Art Item,712.46,5,0.15,126.58
+IN-2025-1289,2026-08-09,2026-08-14,CUST-281,Aarav Sharma,Corporate,India,Gujarat,West,PROD-TEC-21,Technology,Printers,Printers Item,5637.86,8,0.05,1665.26
+IN-2025-1488,2026-08-11,2026-08-13,CUST-936,Vikram Rao,Home Office,India,Karnataka,South,PROD-FUR-16,Furniture,Furnishings,Furnishings Item,1386.31,8,0.3,79.04
+IN-2025-1560,2026-08-11,2026-08-13,CUST-577,Arjun Bansal,Corporate,India,Uttar Pradesh,Central,PROD-FUR-71,Furniture,Chairs,Chairs Item,1732.77,3,0.3,-149.0
+IN-2025-1231,2026-08-12,2026-08-16,CUST-779,Sneha Kulkarni,Home Office,India,Gujarat,West,PROD-OFF-81,Office Supplies,Binders,Binders Item,277.3,5,0.05,76.65
+IN-2025-1070,2026-08-13,2026-08-18,CUST-557,Ishita Gupta,Consumer,India,Haryana,North,PROD-TEC-76,Technology,Printers,Printers Item,6067.01,5,0.05,642.54
+IN-2025-1381,2026-08-13,2026-08-14,CUST-936,Vikram Rao,Corporate,India,Gujarat,West,PROD-TEC-46,Technology,Laptops,Laptops Item,7543.86,7,0.1,1778.64
+IN-2025-1445,2026-08-13,2026-08-14,CUST-489,Aditya Verma,Corporate,India,Himachal Pradesh,North,PROD-FUR-51,Furniture,Tables,Tables Item,367.55,1,0.1,88.27
+IN-2025-1434,2026-08-14,2026-08-17,CUST-577,Arjun Bansal,Consumer,India,Goa,West,PROD-TEC-80,Technology,Smartphones,Smartphones Item,3789.81,6,0.3,99.43
+IN-2025-1440,2026-08-14,2026-08-18,CUST-577,Arjun Bansal,Corporate,India,Delhi,North,PROD-FUR-63,Furniture,Furnishings,Furnishings Item,1610.6,2,0.05,255.09
+IN-2025-1286,2026-08-15,2026-08-17,CUST-608,Diya Patel,Consumer,India,Kerala,South,PROD-FUR-50,Furniture,Chairs,Chairs Item,691.69,2,0.0,194.81
+IN-2025-1508,2026-08-16,2026-08-18,CUST-322,Siddharth Das,Corporate,India,Madhya Pradesh,Central,PROD-OFF-13,Office Supplies,Art,Art Item,163.34,2,0.05,34.2
+IN-2025-1506,2026-08-17,2026-08-20,CUST-577,Arjun Bansal,Corporate,India,Madhya Pradesh,Central,PROD-OFF-70,Office Supplies,Paper,Paper Item,796.34,8,0.2,3.22
+IN-2025-1399,2026-08-18,2026-08-19,CUST-557,Ishita Gupta,Corporate,India,Bihar,East,PROD-TEC-40,Technology,Accessories,Accessories Item,3802.21,6,0.1,900.78
+IN-2025-1455,2026-08-18,2026-08-23,CUST-936,Vikram Rao,Home Office,India,Tamil Nadu,South,PROD-OFF-27,Office Supplies,Art,Art Item,249.72,3,0.3,-48.73
+IN-2025-1550,2026-08-18,2026-08-20,CUST-355,Priya Nair,Corporate,India,Telangana,South,PROD-OFF-45,Office Supplies,Appliances,Appliances Item,175.64,6,0.1,31.13
+IN-2025-1586,2026-08-19,2026-08-24,CUST-355,Priya Nair,Corporate,India,Assam,East,PROD-OFF-61,Office Supplies,Art,Art Item,1173.87,5,0.05,180.9
+IN-2025-1009,2026-08-21,2026-08-25,CUST-666,Rohan Mehta,Home Office,India,Odisha,East,PROD-FUR-16,Furniture,Chairs,Chairs Item,1671.24,3,0.3,42.99
+IN-2025-1276,2026-08-22,2026-08-24,CUST-643,Ananya Iyer,Home Office,India,Karnataka,South,PROD-TEC-78,Technology,Accessories,Accessories Item,1448.21,1,0.05,281.81
+IN-2025-1367,2026-08-28,2026-08-30,CUST-402,Karan Malhotra,Home Office,India,Haryana,North,PROD-FUR-56,Furniture,Tables,Tables Item,2110.78,5,0.05,460.06
+IN-2025-1500,2026-08-28,2026-09-01,CUST-489,Aditya Verma,Corporate,India,Assam,East,PROD-FUR-94,Furniture,Tables,Tables Item,798.16,3,0.05,158.72
+IN-2025-1593,2026-08-28,2026-08-29,CUST-355,Priya Nair,Home Office,India,Telangana,South,PROD-OFF-90,Office Supplies,Paper,Paper Item,167.43,2,0.15,25.8
+IN-2025-1517,2026-09-01,2026-09-03,CUST-608,Diya Patel,Home Office,India,Uttar Pradesh,Central,PROD-TEC-87,Technology,Laptops,Laptops Item,1484.58,3,0.0,313.05
+IN-2025-1097,2026-09-04,2026-09-05,CUST-643,Ananya Iyer,Consumer,India,Haryana,North,PROD-OFF-18,Office Supplies,Binders,Binders Item,674.75,4,0.2,90.09
+IN-2025-1451,2026-09-04,2026-09-09,CUST-643,Ananya Iyer,Home Office,India,Punjab,North,PROD-FUR-15,Furniture,Chairs,Chairs Item,1509.95,5,0.1,255.04
+IN-2025-1249,2026-09-07,2026-09-12,CUST-436,Kavya Menon,Home Office,India,West Bengal,East,PROD-FUR-76,Furniture,Tables,Tables Item,1694.55,4,0.3,-68.63
+IN-2025-1379,2026-09-07,2026-09-08,CUST-530,Rahul Joshi,Consumer,India,Uttar Pradesh,Central,PROD-TEC-94,Technology,Printers,Printers Item,346.85,1,0.3,-39.56
+IN-2025-1435,2026-09-07,2026-09-11,CUST-402,Karan Malhotra,Corporate,India,Bihar,East,PROD-FUR-91,Furniture,Furnishings,Furnishings Item,2270.12,6,0.2,289.03
+IN-2025-1583,2026-09-07,2026-09-10,CUST-402,Karan Malhotra,Corporate,India,Gujarat,West,PROD-FUR-34,Furniture,Furnishings,Furnishings Item,4438.45,8,0.3,-148.93
+IN-2025-1441,2026-09-09,2026-09-10,CUST-936,Vikram Rao,Home Office,India,Maharashtra,West,PROD-TEC-79,Technology,Accessories,Accessories Item,5507.37,6,0.2,71.91
+IN-2025-1578,2026-09-09,2026-09-11,CUST-666,Rohan Mehta,Home Office,India,Madhya Pradesh,Central,PROD-FUR-21,Furniture,Chairs,Chairs Item,1036.67,5,0.2,104.23
+IN-2025-1471,2026-09-10,2026-09-13,CUST-281,Aarav Sharma,Consumer,India,West Bengal,East,PROD-FUR-30,Furniture,Tables,Tables Item,1667.87,3,0.15,98.37
+IN-2025-1542,2026-09-11,2026-09-13,CUST-557,Ishita Gupta,Home Office,India,Madhya Pradesh,Central,PROD-TEC-62,Technology,Laptops,Laptops Item,12049.5,8,0.05,2304.42
+IN-2025-1154,2026-09-12,2026-09-15,CUST-436,Kavya Menon,Consumer,India,Madhya Pradesh,Central,PROD-TEC-92,Technology,Laptops,Laptops Item,5097.87,5,0.3,57.09
+IN-2025-1195,2026-09-12,2026-09-17,CUST-643,Ananya Iyer,Home Office,India,Delhi,North,PROD-OFF-37,Office Supplies,Art,Art Item,703.41,6,0.1,45.8
+IN-2025-1474,2026-09-12,2026-09-15,CUST-936,Vikram Rao,Home Office,India,Rajasthan,West,PROD-OFF-55,Office Supplies,Art,Art Item,1492.7,8,0.2,7.77
+IN-2025-1255,2026-09-16,2026-09-17,CUST-608,Diya Patel,Consumer,India,Odisha,East,PROD-OFF-99,Office Supplies,Binders,Binders Item,162.8,8,0.1,26.3
+IN-2025-1461,2026-09-19,2026-09-24,CUST-402,Karan Malhotra,Home Office,India,Uttar Pradesh,Central,PROD-OFF-76,Office Supplies,Paper,Paper Item,361.14,8,0.0,63.0
+IN-2025-1454,2026-09-20,2026-09-22,CUST-557,Ishita Gupta,Consumer,India,Gujarat,West,PROD-FUR-87,Furniture,Bookcases,Bookcases Item,1131.35,3,0.05,201.87
+IN-2025-1476,2026-09-23,2026-09-27,CUST-355,Priya Nair,Corporate,India,Maharashtra,West,PROD-OFF-11,Office Supplies,Binders,Binders Item,753.04,5,0.1,76.94
+IN-2025-1202,2026-09-24,2026-09-28,CUST-281,Aarav Sharma,Home Office,India,Maharashtra,West,PROD-OFF-11,Office Supplies,Appliances,Appliances Item,95.39,5,0.2,-5.42
+IN-2025-1273,2026-09-24,2026-09-26,CUST-489,Aditya Verma,Home Office,India,Assam,East,PROD-FUR-21,Furniture,Chairs,Chairs Item,917.57,3,0.15,172.83
+IN-2025-1331,2026-09-26,2026-09-27,CUST-779,Sneha Kulkarni,Corporate,India,Gujarat,West,PROD-OFF-29,Office Supplies,Appliances,Appliances Item,212.98,1,0.0,47.14
+IN-2025-1167,2026-09-27,2026-10-01,CUST-281,Aarav Sharma,Home Office,India,Tamil Nadu,South,PROD-OFF-34,Office Supplies,Paper,Paper Item,124.21,6,0.15,24.8
+IN-2025-1327,2026-09-29,2026-10-02,CUST-436,Kavya Menon,Corporate,India,Haryana,North,PROD-TEC-61,Technology,Laptops,Laptops Item,6482.7,8,0.1,596.83
